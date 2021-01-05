@@ -44,7 +44,7 @@ def run_aco(start_city, finish_city, n_paths):
 
     start = next(key for key, value in index_to_name.items() if value == start_city)
     finish = next(key for key, value in index_to_name.items() if value == finish_city)
-    best_distances, best_paths = optimizer.fit(problem, start, finish, iterations=20, early_finish_condition=10, n_paths=n_paths)
+    best_distances, best_paths = optimizer.fit(problem, start, finish, iterations=20, n_paths=n_paths)
     for i, path in enumerate(best_paths):
         print("PATH ACO: ")
         for city in path:

@@ -78,7 +78,7 @@ class AntColonyOptimizer:
         return float(self._map.graph[city][another]) if another in self._map.graph[
             city] else AntColonyOptimizer.UNLINKED_COST
 
-    def fit(self, map_matrix, start, finish, iterations=100, early_finish_condition=40, n_paths=3):
+    def fit(self, map_matrix, start, finish, iterations=100, n_paths=3):
         self._map = map_matrix
         self._initialize()
 
