@@ -2,7 +2,7 @@ from src.aco.ant_colony import AntColonyOptimizer
 from src.model.city import City
 from src.model.network import Network
 
-import numpy as np
+import datetime
 
 
 def load_data():
@@ -37,30 +37,41 @@ def load_data():
     return Network(city_list), index_to_name
 
 
-def run_aco(start_city, finish_city):
+def run_aco(start_city, finish_city, n_paths):
     problem, index_to_name = load_data()
-    optimizer = AntColonyOptimizer(n_ants=30, rho=.2, pheromone_unit=400, best_route_p=0.2, elitist_weight=5)
+    optimizer = AntColonyOptimizer(n_ants=10, rho=.05, pheromone_unit=300, best_route_p=0.2, elitist_weight=1,
+                                   distance_preference_factor=100)
 
     start = next(key for key, value in index_to_name.items() if value == start_city)
     finish = next(key for key, value in index_to_name.items() if value == finish_city)
-    best = optimizer.fit(problem, start, finish, iterations=20, early_finish_condition=10)
-    for city in best:
-        print(index_to_name[city])
-    print(best.get_length())
+    best_distances, best_paths = optimizer.fit(problem, start, finish, iterations=20, early_finish_condition=10, n_paths=n_paths)
+    for i, path in enumerate(best_paths):
+        print("PATH ACO: ")
+        for city in path:
+            print(index_to_name[city])
+        print(best_distances[i])
 
 
-def run_dfs(start_city, finish_city):
+def run_dfs(start_city, finish_city, n_paths):
     network, index_to_name = load_data()
     start = next(key for key, value in index_to_name.items() if value == start_city)
     finish = next(key for key, value in index_to_name.items() if value == finish_city)
-    best_distance, best_path = network.dfs_solve(start, finish)
-    for city in best_path:
-        print(index_to_name[city])
-    print(best_distance)
+    best_distances, best_paths = network.dfs_solve(start, finish, n_routes=n_paths)
+    for i, path in enumerate(best_paths):
+        print("PATHDFS: ")
+        for city in path:
+            print(index_to_name[city])
+        print(best_distances[i])
 
 
 if __name__ == '__main__':
 
-    run_dfs("StLouis", "Seattle")
-    run_aco("StLouis", "Seattle")
+    a = datetime.datetime.now()
+    run_dfs("Miami", "Cleveland", 10)
+    b = datetime.datetime.now()
+    delta = b - a
+    print(f" dfs: {int(delta.total_seconds() * 1000)} ms")
+    a = datetime.datetime.now()
+    run_aco("Miami", "Cleveland", 10)
+
     # print(network.graph)
