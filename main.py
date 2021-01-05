@@ -37,34 +37,30 @@ def load_data():
     return Network(city_list), index_to_name
 
 
-def run(start_city, finish_city):
+def run_aco(start_city, finish_city):
     problem, index_to_name = load_data()
-    optimizer = AntColonyOptimizer(n_ants=60, rho=.04, pheromone_unit=.1, alpha=1, beta=1, elitist_factor=0.4)
+    optimizer = AntColonyOptimizer(n_ants=30, rho=.2, pheromone_unit=400, best_route_p=0.2, elitist_weight=5)
 
     start = next(key for key, value in index_to_name.items() if value == start_city)
     finish = next(key for key, value in index_to_name.items() if value == finish_city)
-    best = optimizer.fit(problem, start, finish, iterations=300, early_stopping_count=50)
+    best = optimizer.fit(problem, start, finish, iterations=20, early_finish_condition=10)
     for city in best:
         print(index_to_name[city])
+    print(best.get_length())
+
+
+def run_dfs(start_city, finish_city):
+    network, index_to_name = load_data()
+    start = next(key for key, value in index_to_name.items() if value == start_city)
+    finish = next(key for key, value in index_to_name.items() if value == finish_city)
+    best_distance, best_path = network.dfs_solve(start, finish)
+    for city in best_path:
+        print(index_to_name[city])
+    print(best_distance)
 
 
 if __name__ == '__main__':
-    network, id_to_name = load_data()
-    # print(network.graph[0])
-    # print(network.graph[1])
-    # print(network.graph[2])
-    # print(len(network.graph))
-    # print(network.graph)
-    print(id_to_name)
-    num_nodes = len(network.graph)
-    pheromone_matrix = np.zeros((num_nodes, num_nodes))
-    heuristic_matrix = np.zeros((num_nodes, num_nodes))
-    # Remove the diagonal since there is no pheromone from node i to itself
-    for node, links in network.graph.items():
-        for link in links:
-            pheromone_matrix[node, link] = 1
-            heuristic_matrix[node, link] = 100 / float(network.graph[node][link])
-    # print(pheromone_matrix)
-    # print(heuristic_matrix)
-    run("LosAngeles", "Boston")
+
+    run_dfs("StLouis", "Seattle")
+    run_aco("StLouis", "Seattle")
     # print(network.graph)

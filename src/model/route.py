@@ -1,16 +1,9 @@
-from city import City
-
-from typing import List
-import random
-
 
 class Route(object):
 
-    def __init__(self, start_city, finish_city):
-        self._start_city = start_city
-        self._finish_city = finish_city
+    def __init__(self, cities):
         self.__length = 0.0
-        self.__cities = []
+        self.__cities = cities
 
     def __lt__(self, other):
         return self.get_length() < other.get_length()
@@ -27,10 +20,13 @@ class Route(object):
     def __setitem__(self, index: int, value):
         self.__cities[index] = value
 
+    def add_city(self, city, distance_added):
+        self.__cities.append(city)
+        self.__length += distance_added
+
+    def get_last_city(self):
+        return self.__cities[-1]
+
     def get_length(self) -> float:
-        self.__length = 0.0
-        prev_city = self.__cities[0]
-        for city in self.__cities[1:]:
-            self.__length += city.get_distance_from(prev_city.get_name())
-            prev_city = city
         return self.__length
+
