@@ -104,7 +104,7 @@ class AntColonyOptimizer:
                 self._unvisited_cities = list(range(len(self._map.graph)))
                 self._paths[route.get_length()] = route
             best_path, min_length = self._evaluate(paths)
-            self._nth_best = sorted(self._paths.keys())[n_paths - 1]
+            # self._nth_best = sorted(self._paths.keys())[n_paths - 1]
             # print(min_length)
 
             if min_length < self._alltime_min:
@@ -115,7 +115,7 @@ class AntColonyOptimizer:
 
         b = datetime.datetime.now()
         delta = b - a
-        print(f" aco: {int(delta.total_seconds() * 1000)} ms")
+        # print(f" aco: {int(delta.total_seconds() * 1000)} ms")
         best_n_distances = []
         best_n_paths = []
         distances_sorted = sorted(self._paths.keys())
@@ -125,4 +125,4 @@ class AntColonyOptimizer:
             key = distances_sorted[i]
             best_n_distances.append(key)
             best_n_paths.append(self._paths[key])
-        return best_n_distances, best_n_paths
+        return best_n_distances, best_n_paths, delta.total_seconds()*1000
