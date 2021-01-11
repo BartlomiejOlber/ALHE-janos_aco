@@ -1,6 +1,8 @@
 import argparse
 import random
 
+import numpy as np
+
 from src.aco.ant_colony import AntColonyOptimizer
 from src.model.city import City
 from src.model.network import Network
@@ -39,22 +41,6 @@ def load_data():
     city_list.append(City(index, city_name, adjacency_dict))
     return Network(city_list), index_to_name
 
-
-# def run_aco(start_city, finish_city, n_paths):
-#     problem, index_to_name = load_data()
-#     optimizer = AntColonyOptimizer(n_ants=15, rho=.05, pheromone_unit=300, best_route_p=0.2, elitist_weight=1,
-#                                    distance_preference_factor=1)
-#
-#     start = next(key for key, value in index_to_name.items() if value == start_city)
-#     finish = next(key for key, value in index_to_name.items() if value == finish_city)
-#     best_distances, best_paths = optimizer.fit(problem, start, finish, iterations=20, n_paths=n_paths)
-#     print("PATH ACO: ")
-#     for i, path in enumerate(best_paths):
-#         # print("PATH ACO: ")
-#         # for city in path:
-#         #     print(index_to_name[city])
-#         print(best_distances[i])
-
 def run_aco(arguments: vars):
     problem, index_to_name = load_data()
                                                             #n_ants = liczba mrowek
@@ -63,7 +49,7 @@ def run_aco(arguments: vars):
                                                             # best_route_p = prawdopodobienstwo tego ze z roboczego miasta przejdziemy do nastepnego miasta ktore jest na razie najlepsze
                                                             # elitist_weight = ile najlepsza trasa w iteracji danej bedzie zwiekszona feromonami
                                                             # distance_preference_factor = dzielone jest przez odleglosc do danego miasta, chyba moze byc jakiekolwiek, nie bedize mialo to znaczenia
-    optimizer = AntColonyOptimizer(n_ants=arguments['ants'], rho=arguments['rho'], pheromone_unit=arguments['pheromone'], best_route_p=arguments['best'], elitist_weight=arguments['elitist'],
+    optimizer = AntColonyOptimizer(n_ants=arguments['ants'], rho=arguments['rho'], pheromone_unit=arguments['pheromone'], elitist_weight=arguments['elitist'],
                                    distance_preference_factor=100)
     start = next(key for key, value in index_to_name.items() if value == arguments['starting'])
     finish = next(key for key, value in index_to_name.items() if value == arguments['finishing'])
@@ -76,7 +62,7 @@ def run_aco(arguments: vars):
             print("\t" + str(index_to_name[city]))
         print(f"\t\tDLUGOSC TRASY = {best_distances[i]}")
 
-    return time
+    return time, best_distances
 
 #
 # def run_dfs(start_city, finish_city, n_paths):
@@ -96,22 +82,17 @@ def run_dfs(start_city, finish_city, n_paths):
     start = next(key for key, value in index_to_name.items() if value == start_city)
     finish = next(key for key, value in index_to_name.items() if value == finish_city)
     best_distances, best_paths = network.dfs_solve(start, finish, n_routes=n_paths)
+
     print("\nDFS ZNALAZL " + str(len(best_distances)) + " SCIEZEK")
     for i, path in enumerate(best_paths):
         print(f"{i+1}. PATH DFS: ")
         for city in path:
             print("\t" + str(index_to_name[city]))
         print(f"\t\tDLUGOSC TRASY = {best_distances[i]}")
+    return best_distances
 
-
-    return best_paths[0], best_distances[0]
-
-# Iteracje	RHO	    Feromony	P_najlepszej_sciezki	polepszanie najlepszej	roznica_srednia
-#       20  0.17	    200	                     0.17	                    1	            1.27
-
-
-def benchmark():
-    #losujemy 10 roznych polaczen
+def benchmark(arguments: vars):
+        #losujemy 20 roznych polaczen
     problem, index_to_name = load_data()
     pairs = set()
     while len(pairs) < 20:
@@ -120,61 +101,59 @@ def benchmark():
         while b is a:
             b=random.randint(0,len(index_to_name)-1)
         pairs.add((a,b))
+
     best_routes = []
-    aco_routes = []
-    #wykonaj dla kazdego dfs zeby miec porownanie
+        #wykonaj dla kazdego dfs zeby miec porownanie
     for a,b in pairs:
-        pat,dis = run_dfs(index_to_name[a],index_to_name[b],5)
+        dis = run_dfs(index_to_name[a],index_to_name[b],5)
         best_routes.append(dis)
-    #     pat,dis = run_aco(index_to_name[a],index_to_name[b],15)
-    #     aco_routes.append(dis)
-    #takie znaleziono najlepsze:
+
+        #takie znaleziono najlepsze:
     for i,(a,b) in enumerate(pairs):
         print(index_to_name[a] + " -> " + index_to_name[b] + " dlugosc: "+ str(best_routes[i]))
-    # print("\nDFS\t\tACO\t\tROZNICA")
-    # for i in range(len(best_routes)):
-    #     print(str(best_routes[i]))
-    # print("\tACO:")
-    # for rout in aco_routes:
-    #     print(rout)
 
 
-    bench_rho_value = [0.05,0.08,0.11,0.14,0.17,0.20]         #6
-    bench_pherom_count = [100,150,200]              #3
-    bench_best_route_p = [0.05,0.08,0.11,0.14,0.17,0.20]      #6
-    bench_elitist = [1.00,1.05,1.10,1.15]                #4
-    bench_iters = [10,20]                           #2      #lacznie 288
+    bench_rho_value = np.arange(0.05,0.20,0.02)
+    bench_pherom_count = np.arange(50,300,50)
+    bench_elitist = np.arange(1,5,0.3)
 
     print("TAKIE SA MIASTA:\n")
     for a,b in pairs:
         print(str(index_to_name[a])+" -> " + str(index_to_name[b]))
 
 
-    bench_results_file = open("resultsadv.txt", 'a')
-    bench_results_file.write("\nIteracje\tRHO\tFeromony\tP_najlepszej_sciezki\tpolepszanie najlepszej\troznica_srednia\n")
+    bench_results_file = open("results.txt", 'a')
+    bench_results_file.write("Mrowki\tIteracje\tRHO\tFeromony\tpolepszanie najlepszej\troznica_srednia\n")
     bench_results_file.close()
-
-                                    #2
+    curr_best = float("inf")
+    best_settings = ""
     for rho_v in bench_rho_value:                           #6
-        # curr_best = float("inf")
         settings = ""
         for pherom_c in bench_pherom_count:                 #3
-            for route_p in bench_best_route_p:              #6
-                for elits in bench_elitist:                 #4
-                    differences = dict()
-                    for i,(a,b) in enumerate(pairs):        #20
-                        tmp = 0.0
-                        for repeat in range(10):             #5
-                            pat,dis = run_aco(index_to_name[a],index_to_name[b],5,15,rho_v,pherom_c,route_p,elits,100)
-                            tmp += dis-best_routes[i]
-                        differences[i]=tmp/10                        #jaka srednio wychodzi roznica miedzy najlpeszym
+            for elits in bench_elitist:              #6
+                arguments['rho']=rho_v
+                arguments['pheromone']=pherom_c
+                arguments['elitist']=elits
+                differences = dict()
+                for i,(a,b) in enumerate(pairs):        #20
+                    tmp = 0.0
+                    for repeat in range(10):             #5
+                        time,dis = run_aco(arguments)
+                        tmp += dis[min(4,len(dis)-1)]-best_routes[i][min(4,len(dis)-1)]
+                    differences[i]=tmp/10                        #jaka srednio wychodzi roznica
 
-                    average = sum(differences.values())/len(differences.values())
-                    # print(str(average))
-                    settings = f'20\t{rho_v}\t{pherom_c}\t{route_p}\t{elits}\t{average}\n'
-                    bench_results_file = open("resultsadv.txt", 'a')
-                    bench_results_file.write(settings)
-                    bench_results_file.close()
+                average = sum(differences.values())/len(differences.values())
+                # print(str(average))
+                if(average<curr_best):
+                    curr_best=average
+                settings = f'15\t15\t{rho_v}\t{pherom_c}\t{elits}\t{average}\n'
+                if (average < curr_best):
+                    curr_best = average
+                    best_settings=settings
+                bench_results_file = open("results.txt", 'a')
+                bench_results_file.write(settings)
+                bench_results_file.close()
+    print(f'\n\nBest settings = {best_settings}')
 
 
 
@@ -184,10 +163,9 @@ def parse_args() -> vars:
     ap.add_argument('-a', "--ants",default=20, type=int,help="number of ants working")
     ap.add_argument('-p','--pheromone',default=200, type=int, help="Number of pheromones left by each ant")
     ap.add_argument('-e','--elitist', default=1.0 ,type=float,help='improvement of best path yet')
-    ap.add_argument('-s','--starting' ,type=str,help="starting city",required=True)
-    ap.add_argument('-f','--finishing',type=str,help="finishing city",required=True)
+    ap.add_argument('-s','--starting' ,type=str,default="Seattle",help="starting city")
+    ap.add_argument('-f','--finishing',type=str,default='NewYork' ,help="finishing city")
     ap.add_argument('-i','--iterations',default=20,type=int,help='Number of iterations')
-    ap.add_argument('-b', '--best',default=0.17,type=float,help='probabilty of choosing best existing path each iteration')
     ap.add_argument('-n', '--npaths',default=5,type=int,help="number of paths to be found")
     args = vars(ap.parse_args())
     return args
@@ -197,15 +175,22 @@ def parse_args() -> vars:
 
 if __name__ == '__main__':
     arguments = parse_args()
-    # benchmark()
-    # print(arguments['ants'])
+
+        #tryb benchmark
+    # benchmark(arguments)
+
+        #tryb normalny
     a = datetime.datetime.now()
-    run_dfs(arguments['starting'],arguments['finishing'],arguments['npaths'])
+    dfs_dis = run_dfs(arguments['starting'],arguments['finishing'],arguments['npaths'])
+    print(dfs_dis)
     b = datetime.datetime.now()
     delta = b - a
-    time=run_aco(arguments)
+    time,aco_dist=run_aco(arguments)
+    print(aco_dist)
 
     # print(f" aco: {time} ms")
     print(f"DFS duration =  {int(delta.total_seconds()*1000)} ms")
     print(f"ACO duration  = {time} ms")
-    # print(network.graph)
+    print(f'Path length difference: {aco_dist[0]-dfs_dis[0]}')
+
+

@@ -10,11 +10,10 @@ from src.model.route import Route
 class AntColonyOptimizer:
     UNLINKED_COST = 10000.
 
-    def __init__(self, n_ants, rho, pheromone_unit, best_route_p, elitist_weight, distance_preference_factor):
+    def __init__(self, n_ants, rho, pheromone_unit, elitist_weight, distance_preference_factor):
         self._n_ants = n_ants
         self._rho = rho
         self._pheromone_unit = pheromone_unit
-        self._best_route_p = best_route_p
         self._pheromones = None
         self._distance_weights = None
         self._route_probability = None
@@ -43,19 +42,10 @@ class AntColonyOptimizer:
     def _update_probabilities(self):
         self._route_probability = self._pheromones * self._distance_weights / (
                 self._pheromones * self._distance_weights).sum()
-        # self._route_probability = self._pheromones * self._distance_weights
-        # print(f"sum: {self._route_probability.sum()}")
 
     def _choose_next_city(self, from_city):
         possible_routes = self._route_probability[from_city, self._unvisited_cities]
         next_city = np.random.choice(range(len(possible_routes)), p=possible_routes/possible_routes.sum())
-        # print(possible_routes)
-        # possible_routes = self._route_probability[from_city, self._unvisited_cities]
-        # if np.random.random() < self._best_route_p:
-        #     next_city = np.argmax(possible_routes)
-        # else:
-        #     uniform_probabilities = possible_routes / np.sum(possible_routes)
-        #     next_city = np.random.choice(range(len(possible_routes)), p=uniform_probabilities)
         return next_city
 
     @staticmethod
