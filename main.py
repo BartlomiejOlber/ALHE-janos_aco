@@ -16,8 +16,8 @@ def load_data():
     prefix = "{http://sndlib.zib.de/network}"
     city_name = ""
     city_list = []
-    index_to_name = dict()
-    adjacency_dict = dict()
+    index_to_name   = dict()
+    adjacency_dict  = dict()
     index = 0
     for type_tag in root.findall(f"{prefix}networkStructure/{prefix}links/{prefix}link"):
         source = type_tag.find(f"{prefix}source").text
@@ -29,9 +29,9 @@ def load_data():
     city_name = "Seattle"
     index = 0
     for type_tag in root.findall(f"{prefix}networkStructure/{prefix}links/{prefix}link"):
-        source = type_tag.find(f"{prefix}source").text
-        target = type_tag.find(f"{prefix}target").text
-        cost = type_tag.find(f"{prefix}additionalModules/{prefix}addModule/{prefix}cost").text
+        source  = type_tag.find(f"{prefix}source").text
+        target  = type_tag.find(f"{prefix}target").text
+        cost    = type_tag.find(f"{prefix}additionalModules/{prefix}addModule/{prefix}cost").text
         if source != city_name:
             city_list.append(City(index, city_name, adjacency_dict))
             adjacency_dict = dict()
@@ -51,11 +51,11 @@ def run_aco(arguments: vars):
                                                             # distance_preference_factor = dzielone jest przez odleglosc do danego miasta, chyba moze byc jakiekolwiek, nie bedize mialo to znaczenia
     optimizer = AntColonyOptimizer(n_ants=arguments['ants'], rho=arguments['rho'], pheromone_unit=arguments['pheromone'], elitist_weight=arguments['elitist'],
                                    distance_preference_factor=100)
-    start = next(key for key, value in index_to_name.items() if value == arguments['starting'])
-    finish = next(key for key, value in index_to_name.items() if value == arguments['finishing'])
+    start   = next(key for key, value in index_to_name.items() if value == arguments['starting'])
+    finish  = next(key for key, value in index_to_name.items() if value == arguments['finishing'])
     best_distances, best_paths,time = optimizer.fit(problem, start, finish, iterations=arguments['iterations'], n_paths=arguments['npaths'])
 
-    print("\nACO ZNALAZL: " + str(min(len(best_distances),arguments['npaths'])) + " SCIEZEK")
+    print("\n\t\t\tACO ZNALAZL: " + str(min(len(best_distances),arguments['npaths'])) + " SCIEZEK")
     for i, path in enumerate(best_paths):
         print(f"{i+1}. PATH ACO: ")
         for city in path:
@@ -79,11 +79,11 @@ def run_aco(arguments: vars):
 
 def run_dfs(start_city, finish_city, n_paths):
     network, index_to_name = load_data()
-    start = next(key for key, value in index_to_name.items() if value == start_city)
-    finish = next(key for key, value in index_to_name.items() if value == finish_city)
+    start   = next(key for key, value in index_to_name.items() if value == start_city)
+    finish  = next(key for key, value in index_to_name.items() if value == finish_city)
     best_distances, best_paths = network.dfs_solve(start, finish, n_routes=n_paths)
 
-    print("\nDFS ZNALAZL " + str(len(best_distances)) + " SCIEZEK")
+    print("\n\t\t\tDFS ZNALAZL " + str(len(best_distances)) + " SCIEZEK")
     for i, path in enumerate(best_paths):
         print(f"{i+1}. PATH DFS: ")
         for city in path:
@@ -159,13 +159,13 @@ def benchmark(arguments: vars):
 
 def parse_args() -> vars:
     ap = argparse.ArgumentParser()
-    ap.add_argument('-r',"--rho",default=0.17, type=float,help="Value of Rho evaporation rate")
-    ap.add_argument('-a', "--ants",default=20, type=int,help="number of ants working")
+    ap.add_argument('-r',"--rho",default=0.13, type=float,help="Value of Rho evaporation rate")
+    ap.add_argument('-a', "--ants",default=15, type=int,help="number of ants working")
     ap.add_argument('-p','--pheromone',default=200, type=int, help="Number of pheromones left by each ant")
-    ap.add_argument('-e','--elitist', default=1.0 ,type=float,help='improvement of best path yet')
+    ap.add_argument('-e','--elitist', default=4.6 ,type=float,help='improvement of best path yet')
     ap.add_argument('-s','--starting' ,type=str,default="Seattle",help="starting city")
     ap.add_argument('-f','--finishing',type=str,default='NewYork' ,help="finishing city")
-    ap.add_argument('-i','--iterations',default=20,type=int,help='Number of iterations')
+    ap.add_argument('-i','--iterations',default=15,type=int,help='Number of iterations')
     ap.add_argument('-n', '--npaths',default=5,type=int,help="number of paths to be found")
     args = vars(ap.parse_args())
     return args
@@ -182,14 +182,14 @@ if __name__ == '__main__':
         #tryb normalny
     a = datetime.datetime.now()
     dfs_dis = run_dfs(arguments['starting'],arguments['finishing'],arguments['npaths'])
-    print(dfs_dis)
+    # print(dfs_dis)
     b = datetime.datetime.now()
     delta = b - a
     time,aco_dist=run_aco(arguments)
-    print(aco_dist)
+    # print(aco_dist)
 
     # print(f" aco: {time} ms")
-    print(f"DFS duration =  {int(delta.total_seconds()*1000)} ms")
+    print(f"\n\nDFS duration =  {int(delta.total_seconds()*1000)} ms")
     print(f"ACO duration  = {time} ms")
     print(f'Path length difference: {aco_dist[0]-dfs_dis[0]}')
 
