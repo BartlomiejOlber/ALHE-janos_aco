@@ -1,0 +1,1682 @@
+ants: 1 iters: 1 
+ acobestworse: 93 aconthworse: 93 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 2 
+ acobestworse: 83 aconthworse: 93 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 3 
+ acobestworse: 77 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 4 
+ acobestworse: 79 aconthworse: 94 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 5 
+ acobestworse: 74 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 6 
+ acobestworse: 64 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 7 
+ acobestworse: 70 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 8 
+ acobestworse: 62 aconthworse: 93 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 9 
+ acobestworse: 66 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 10 
+ acobestworse: 63 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 11 
+ acobestworse: 59 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 12 
+ acobestworse: 62 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 13 
+ acobestworse: 59 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 14 
+ acobestworse: 58 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 15 
+ acobestworse: 59 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 16 
+ acobestworse: 58 aconthworse: 94 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 17 
+ acobestworse: 54 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 18 
+ acobestworse: 51 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 19 
+ acobestworse: 55 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 20 
+ acobestworse: 50 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 21 
+ acobestworse: 50 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 22 
+ acobestworse: 56 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 23 
+ acobestworse: 55 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 24 
+ acobestworse: 58 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 25 
+ acobestworse: 55 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 26 
+ acobestworse: 61 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 27 
+ acobestworse: 55 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 28 
+ acobestworse: 52 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 1 iters: 29 
+ acobestworse: 59 aconthworse: 94 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 1 
+ acobestworse: 87 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 2 
+ acobestworse: 76 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 3 
+ acobestworse: 68 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 4 
+ acobestworse: 60 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 5 
+ acobestworse: 59 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 6 
+ acobestworse: 59 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 7 
+ acobestworse: 50 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 8 
+ acobestworse: 53 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 9 
+ acobestworse: 49 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 10 
+ acobestworse: 47 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 11 
+ acobestworse: 46 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 12 
+ acobestworse: 51 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 13 
+ acobestworse: 43 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 14 
+ acobestworse: 39 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 15 
+ acobestworse: 43 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 16 
+ acobestworse: 50 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 17 
+ acobestworse: 36 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 18 
+ acobestworse: 38 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 19 
+ acobestworse: 37 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 20 
+ acobestworse: 31 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 21 
+ acobestworse: 33 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 22 
+ acobestworse: 37 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 23 
+ acobestworse: 37 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 24 
+ acobestworse: 35 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 25 
+ acobestworse: 39 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 26 
+ acobestworse: 34 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 27 
+ acobestworse: 37 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 28 
+ acobestworse: 35 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 2 iters: 29 
+ acobestworse: 29 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 1 
+ acobestworse: 77 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 2 
+ acobestworse: 69 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 3 
+ acobestworse: 62 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 4 
+ acobestworse: 53 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 5 
+ acobestworse: 47 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 6 
+ acobestworse: 37 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 7 
+ acobestworse: 45 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 8 
+ acobestworse: 47 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 9 
+ acobestworse: 41 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 10 
+ acobestworse: 36 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 11 
+ acobestworse: 36 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 12 
+ acobestworse: 48 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 13 
+ acobestworse: 37 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 14 
+ acobestworse: 36 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 15 
+ acobestworse: 33 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 16 
+ acobestworse: 29 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 17 
+ acobestworse: 32 aconthworse: 94 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 18 
+ acobestworse: 33 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 19 
+ acobestworse: 25 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 20 
+ acobestworse: 29 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 21 
+ acobestworse: 31 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 22 
+ acobestworse: 27 aconthworse: 92 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 23 
+ acobestworse: 21 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 24 
+ acobestworse: 25 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 25 
+ acobestworse: 29 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 26 
+ acobestworse: 31 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 27 
+ acobestworse: 34 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 28 
+ acobestworse: 28 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 3 iters: 29 
+ acobestworse: 27 aconthworse: 94 acofaster: 97 dfsfaster: 3 
+ants: 4 iters: 1 
+ acobestworse: 79 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 2 
+ acobestworse: 65 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 3 
+ acobestworse: 61 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 4 
+ acobestworse: 64 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 5 
+ acobestworse: 41 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 6 
+ acobestworse: 45 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 7 
+ acobestworse: 33 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 8 
+ acobestworse: 34 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 9 
+ acobestworse: 31 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 10 
+ acobestworse: 33 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 11 
+ acobestworse: 33 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 12 
+ acobestworse: 24 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 13 
+ acobestworse: 27 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 14 
+ acobestworse: 28 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 15 
+ acobestworse: 24 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 16 
+ acobestworse: 20 aconthworse: 94 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 17 
+ acobestworse: 26 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 18 
+ acobestworse: 29 aconthworse: 96 acofaster: 99 dfsfaster: 1 
+ants: 4 iters: 19 
+ acobestworse: 21 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 4 iters: 20 
+ acobestworse: 24 aconthworse: 93 acofaster: 98 dfsfaster: 2 
+ants: 4 iters: 21 
+ acobestworse: 24 aconthworse: 97 acofaster: 99 dfsfaster: 1 
+ants: 4 iters: 22 
+ acobestworse: 18 aconthworse: 96 acofaster: 99 dfsfaster: 1 
+ants: 4 iters: 23 
+ acobestworse: 22 aconthworse: 95 acofaster: 97 dfsfaster: 3 
+ants: 4 iters: 24 
+ acobestworse: 23 aconthworse: 89 acofaster: 98 dfsfaster: 2 
+ants: 4 iters: 25 
+ acobestworse: 25 aconthworse: 94 acofaster: 97 dfsfaster: 3 
+ants: 4 iters: 26 
+ acobestworse: 25 aconthworse: 95 acofaster: 96 dfsfaster: 4 
+ants: 4 iters: 27 
+ acobestworse: 17 aconthworse: 90 acofaster: 97 dfsfaster: 3 
+ants: 4 iters: 28 
+ acobestworse: 23 aconthworse: 94 acofaster: 97 dfsfaster: 3 
+ants: 4 iters: 29 
+ acobestworse: 18 aconthworse: 89 acofaster: 94 dfsfaster: 6 
+ants: 5 iters: 1 
+ acobestworse: 71 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 2 
+ acobestworse: 54 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 3 
+ acobestworse: 47 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 4 
+ acobestworse: 45 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 5 
+ acobestworse: 44 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 6 
+ acobestworse: 39 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 7 
+ acobestworse: 30 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 8 
+ acobestworse: 31 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 9 
+ acobestworse: 31 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 10 
+ acobestworse: 31 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 11 
+ acobestworse: 31 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 12 
+ acobestworse: 26 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 13 
+ acobestworse: 25 aconthworse: 94 acofaster: 99 dfsfaster: 1 
+ants: 5 iters: 14 
+ acobestworse: 20 aconthworse: 92 acofaster: 100 dfsfaster: 0 
+ants: 5 iters: 15 
+ acobestworse: 24 aconthworse: 93 acofaster: 99 dfsfaster: 1 
+ants: 5 iters: 16 
+ acobestworse: 16 aconthworse: 93 acofaster: 98 dfsfaster: 2 
+ants: 5 iters: 17 
+ acobestworse: 22 aconthworse: 93 acofaster: 97 dfsfaster: 3 
+ants: 5 iters: 18 
+ acobestworse: 20 aconthworse: 93 acofaster: 97 dfsfaster: 3 
+ants: 5 iters: 19 
+ acobestworse: 18 aconthworse: 86 acofaster: 95 dfsfaster: 5 
+ants: 5 iters: 20 
+ acobestworse: 25 aconthworse: 88 acofaster: 96 dfsfaster: 4 
+ants: 5 iters: 21 
+ acobestworse: 20 aconthworse: 87 acofaster: 94 dfsfaster: 6 
+ants: 5 iters: 22 
+ acobestworse: 16 aconthworse: 87 acofaster: 94 dfsfaster: 6 
+ants: 5 iters: 23 
+ acobestworse: 21 aconthworse: 88 acofaster: 95 dfsfaster: 5 
+ants: 5 iters: 24 
+ acobestworse: 17 aconthworse: 89 acofaster: 93 dfsfaster: 7 
+ants: 5 iters: 25 
+ acobestworse: 15 aconthworse: 93 acofaster: 91 dfsfaster: 9 
+ants: 5 iters: 26 
+ acobestworse: 20 aconthworse: 88 acofaster: 91 dfsfaster: 9 
+ants: 5 iters: 27 
+ acobestworse: 20 aconthworse: 89 acofaster: 90 dfsfaster: 10 
+ants: 5 iters: 28 
+ acobestworse: 16 aconthworse: 87 acofaster: 89 dfsfaster: 11 
+ants: 5 iters: 29 
+ acobestworse: 20 aconthworse: 90 acofaster: 90 dfsfaster: 10 
+ants: 6 iters: 1 
+ acobestworse: 65 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 6 iters: 2 
+ acobestworse: 47 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 6 iters: 3 
+ acobestworse: 48 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 6 iters: 4 
+ acobestworse: 42 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 6 iters: 5 
+ acobestworse: 40 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 6 iters: 6 
+ acobestworse: 35 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 6 iters: 7 
+ acobestworse: 36 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 6 iters: 8 
+ acobestworse: 31 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 6 iters: 9 
+ acobestworse: 25 aconthworse: 94 acofaster: 100 dfsfaster: 0 
+ants: 6 iters: 10 
+ acobestworse: 26 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 6 iters: 11 
+ acobestworse: 30 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 6 iters: 12 
+ acobestworse: 16 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 6 iters: 13 
+ acobestworse: 19 aconthworse: 90 acofaster: 98 dfsfaster: 2 
+ants: 6 iters: 14 
+ acobestworse: 23 aconthworse: 95 acofaster: 98 dfsfaster: 2 
+ants: 6 iters: 15 
+ acobestworse: 19 aconthworse: 89 acofaster: 97 dfsfaster: 3 
+ants: 6 iters: 16 
+ acobestworse: 18 aconthworse: 89 acofaster: 94 dfsfaster: 6 
+ants: 6 iters: 17 
+ acobestworse: 16 aconthworse: 88 acofaster: 95 dfsfaster: 5 
+ants: 6 iters: 18 
+ acobestworse: 20 aconthworse: 89 acofaster: 91 dfsfaster: 9 
+ants: 6 iters: 19 
+ acobestworse: 17 aconthworse: 85 acofaster: 93 dfsfaster: 7 
+ants: 6 iters: 20 
+ acobestworse: 17 aconthworse: 84 acofaster: 92 dfsfaster: 8 
+ants: 6 iters: 21 
+ acobestworse: 12 aconthworse: 84 acofaster: 92 dfsfaster: 8 
+ants: 6 iters: 22 
+ acobestworse: 15 aconthworse: 85 acofaster: 90 dfsfaster: 10 
+ants: 6 iters: 23 
+ acobestworse: 15 aconthworse: 83 acofaster: 88 dfsfaster: 12 
+ants: 6 iters: 24 
+ acobestworse: 17 aconthworse: 79 acofaster: 85 dfsfaster: 15 
+ants: 6 iters: 25 
+ acobestworse: 15 aconthworse: 84 acofaster: 86 dfsfaster: 14 
+ants: 6 iters: 26 
+ acobestworse: 14 aconthworse: 89 acofaster: 83 dfsfaster: 17 
+ants: 6 iters: 27 
+ acobestworse: 18 aconthworse: 82 acofaster: 82 dfsfaster: 18 
+ants: 6 iters: 28 
+ acobestworse: 18 aconthworse: 86 acofaster: 81 dfsfaster: 19 
+ants: 6 iters: 29 
+ acobestworse: 11 aconthworse: 86 acofaster: 78 dfsfaster: 22 
+ants: 7 iters: 1 
+ acobestworse: 64 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 7 iters: 2 
+ acobestworse: 48 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 7 iters: 3 
+ acobestworse: 45 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 7 iters: 4 
+ acobestworse: 36 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 7 iters: 5 
+ acobestworse: 34 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 7 iters: 6 
+ acobestworse: 31 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 7 iters: 7 
+ acobestworse: 28 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 7 iters: 8 
+ acobestworse: 30 aconthworse: 93 acofaster: 100 dfsfaster: 0 
+ants: 7 iters: 9 
+ acobestworse: 26 aconthworse: 94 acofaster: 100 dfsfaster: 0 
+ants: 7 iters: 10 
+ acobestworse: 22 aconthworse: 89 acofaster: 100 dfsfaster: 0 
+ants: 7 iters: 11 
+ acobestworse: 21 aconthworse: 91 acofaster: 98 dfsfaster: 2 
+ants: 7 iters: 12 
+ acobestworse: 19 aconthworse: 94 acofaster: 95 dfsfaster: 5 
+ants: 7 iters: 13 
+ acobestworse: 16 aconthworse: 90 acofaster: 96 dfsfaster: 4 
+ants: 7 iters: 14 
+ acobestworse: 18 aconthworse: 88 acofaster: 95 dfsfaster: 5 
+ants: 7 iters: 15 
+ acobestworse: 16 aconthworse: 87 acofaster: 93 dfsfaster: 7 
+ants: 7 iters: 16 
+ acobestworse: 17 aconthworse: 87 acofaster: 90 dfsfaster: 10 
+ants: 7 iters: 17 
+ acobestworse: 16 aconthworse: 88 acofaster: 93 dfsfaster: 7 
+ants: 7 iters: 18 
+ acobestworse: 15 aconthworse: 91 acofaster: 89 dfsfaster: 11 
+ants: 7 iters: 19 
+ acobestworse: 22 aconthworse: 84 acofaster: 84 dfsfaster: 16 
+ants: 7 iters: 20 
+ acobestworse: 13 aconthworse: 81 acofaster: 84 dfsfaster: 16 
+ants: 7 iters: 21 
+ acobestworse: 16 aconthworse: 89 acofaster: 85 dfsfaster: 15 
+ants: 7 iters: 22 
+ acobestworse: 14 aconthworse: 84 acofaster: 81 dfsfaster: 19 
+ants: 7 iters: 23 
+ acobestworse: 10 aconthworse: 86 acofaster: 79 dfsfaster: 21 
+ants: 7 iters: 24 
+ acobestworse: 17 aconthworse: 82 acofaster: 77 dfsfaster: 23 
+ants: 7 iters: 25 
+ acobestworse: 16 aconthworse: 82 acofaster: 75 dfsfaster: 25 
+ants: 7 iters: 26 
+ acobestworse: 11 aconthworse: 84 acofaster: 76 dfsfaster: 24 
+ants: 7 iters: 27 
+ acobestworse: 17 aconthworse: 79 acofaster: 73 dfsfaster: 27 
+ants: 7 iters: 28 
+ acobestworse: 17 aconthworse: 85 acofaster: 74 dfsfaster: 26 
+ants: 7 iters: 29 
+ acobestworse: 13 aconthworse: 78 acofaster: 74 dfsfaster: 26 
+ants: 8 iters: 1 
+ acobestworse: 62 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 8 iters: 2 
+ acobestworse: 50 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 8 iters: 3 
+ acobestworse: 38 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 8 iters: 4 
+ acobestworse: 37 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 8 iters: 5 
+ acobestworse: 26 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 8 iters: 6 
+ acobestworse: 26 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 8 iters: 7 
+ acobestworse: 25 aconthworse: 97 acofaster: 99 dfsfaster: 1 
+ants: 8 iters: 8 
+ acobestworse: 31 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 8 iters: 9 
+ acobestworse: 21 aconthworse: 85 acofaster: 99 dfsfaster: 1 
+ants: 8 iters: 10 
+ acobestworse: 20 aconthworse: 91 acofaster: 97 dfsfaster: 3 
+ants: 8 iters: 11 
+ acobestworse: 21 aconthworse: 89 acofaster: 96 dfsfaster: 4 
+ants: 8 iters: 12 
+ acobestworse: 19 aconthworse: 85 acofaster: 95 dfsfaster: 5 
+ants: 8 iters: 13 
+ acobestworse: 18 aconthworse: 88 acofaster: 94 dfsfaster: 6 
+ants: 8 iters: 14 
+ acobestworse: 15 aconthworse: 89 acofaster: 90 dfsfaster: 10 
+ants: 8 iters: 15 
+ acobestworse: 15 aconthworse: 82 acofaster: 90 dfsfaster: 10 
+ants: 8 iters: 16 
+ acobestworse: 15 aconthworse: 80 acofaster: 85 dfsfaster: 15 
+ants: 8 iters: 17 
+ acobestworse: 14 aconthworse: 83 acofaster: 85 dfsfaster: 15 
+ants: 8 iters: 18 
+ acobestworse: 10 aconthworse: 81 acofaster: 81 dfsfaster: 19 
+ants: 8 iters: 19 
+ acobestworse: 11 aconthworse: 83 acofaster: 79 dfsfaster: 21 
+ants: 8 iters: 20 
+ acobestworse: 12 aconthworse: 78 acofaster: 79 dfsfaster: 21 
+ants: 8 iters: 21 
+ acobestworse: 12 aconthworse: 82 acofaster: 76 dfsfaster: 24 
+ants: 8 iters: 22 
+ acobestworse: 16 aconthworse: 82 acofaster: 75 dfsfaster: 25 
+ants: 8 iters: 23 
+ acobestworse: 10 aconthworse: 82 acofaster: 74 dfsfaster: 26 
+ants: 8 iters: 24 
+ acobestworse: 9 aconthworse: 83 acofaster: 72 dfsfaster: 28 
+ants: 8 iters: 25 
+ acobestworse: 12 aconthworse: 75 acofaster: 72 dfsfaster: 28 
+ants: 8 iters: 26 
+ acobestworse: 11 aconthworse: 79 acofaster: 72 dfsfaster: 28 
+ants: 8 iters: 27 
+ acobestworse: 9 aconthworse: 79 acofaster: 69 dfsfaster: 31 
+ants: 8 iters: 28 
+ acobestworse: 8 aconthworse: 78 acofaster: 66 dfsfaster: 34 
+ants: 8 iters: 29 
+ acobestworse: 12 aconthworse: 82 acofaster: 65 dfsfaster: 35 
+ants: 9 iters: 1 
+ acobestworse: 67 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 9 iters: 2 
+ acobestworse: 47 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 9 iters: 3 
+ acobestworse: 39 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 9 iters: 4 
+ acobestworse: 37 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 9 iters: 5 
+ acobestworse: 29 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 9 iters: 6 
+ acobestworse: 23 aconthworse: 94 acofaster: 100 dfsfaster: 0 
+ants: 9 iters: 7 
+ acobestworse: 27 aconthworse: 88 acofaster: 99 dfsfaster: 1 
+ants: 9 iters: 8 
+ acobestworse: 20 aconthworse: 93 acofaster: 99 dfsfaster: 1 
+ants: 9 iters: 9 
+ acobestworse: 18 aconthworse: 86 acofaster: 96 dfsfaster: 4 
+ants: 9 iters: 10 
+ acobestworse: 20 aconthworse: 82 acofaster: 94 dfsfaster: 6 
+ants: 9 iters: 11 
+ acobestworse: 17 aconthworse: 82 acofaster: 92 dfsfaster: 8 
+ants: 9 iters: 12 
+ acobestworse: 20 aconthworse: 87 acofaster: 89 dfsfaster: 11 
+ants: 9 iters: 13 
+ acobestworse: 16 aconthworse: 87 acofaster: 89 dfsfaster: 11 
+ants: 9 iters: 14 
+ acobestworse: 15 aconthworse: 81 acofaster: 84 dfsfaster: 16 
+ants: 9 iters: 15 
+ acobestworse: 16 aconthworse: 85 acofaster: 83 dfsfaster: 17 
+ants: 9 iters: 16 
+ acobestworse: 15 aconthworse: 80 acofaster: 82 dfsfaster: 18 
+ants: 9 iters: 17 
+ acobestworse: 13 aconthworse: 83 acofaster: 79 dfsfaster: 21 
+ants: 9 iters: 18 
+ acobestworse: 16 aconthworse: 77 acofaster: 77 dfsfaster: 23 
+ants: 9 iters: 19 
+ acobestworse: 11 aconthworse: 78 acofaster: 77 dfsfaster: 23 
+ants: 9 iters: 20 
+ acobestworse: 15 aconthworse: 83 acofaster: 73 dfsfaster: 27 
+ants: 9 iters: 21 
+ acobestworse: 11 aconthworse: 80 acofaster: 71 dfsfaster: 29 
+ants: 9 iters: 22 
+ acobestworse: 12 aconthworse: 78 acofaster: 72 dfsfaster: 28 
+ants: 9 iters: 23 
+ acobestworse: 11 aconthworse: 76 acofaster: 69 dfsfaster: 31 
+ants: 9 iters: 24 
+ acobestworse: 11 aconthworse: 84 acofaster: 68 dfsfaster: 32 
+ants: 9 iters: 25 
+ acobestworse: 11 aconthworse: 81 acofaster: 67 dfsfaster: 33 
+ants: 9 iters: 26 
+ acobestworse: 12 aconthworse: 78 acofaster: 65 dfsfaster: 35 
+ants: 9 iters: 27 
+ acobestworse: 12 aconthworse: 74 acofaster: 60 dfsfaster: 40 
+ants: 9 iters: 28 
+ acobestworse: 9 aconthworse: 72 acofaster: 62 dfsfaster: 38 
+ants: 9 iters: 29 
+ acobestworse: 12 aconthworse: 72 acofaster: 59 dfsfaster: 41 
+ants: 10 iters: 1 
+ acobestworse: 58 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 10 iters: 2 
+ acobestworse: 49 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 10 iters: 3 
+ acobestworse: 35 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 10 iters: 4 
+ acobestworse: 33 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 10 iters: 5 
+ acobestworse: 29 aconthworse: 92 acofaster: 100 dfsfaster: 0 
+ants: 10 iters: 6 
+ acobestworse: 28 aconthworse: 88 acofaster: 99 dfsfaster: 1 
+ants: 10 iters: 7 
+ acobestworse: 23 aconthworse: 88 acofaster: 97 dfsfaster: 3 
+ants: 10 iters: 8 
+ acobestworse: 22 aconthworse: 90 acofaster: 95 dfsfaster: 5 
+ants: 10 iters: 9 
+ acobestworse: 21 aconthworse: 87 acofaster: 95 dfsfaster: 5 
+ants: 10 iters: 10 
+ acobestworse: 15 aconthworse: 81 acofaster: 94 dfsfaster: 6 
+ants: 10 iters: 11 
+ acobestworse: 15 aconthworse: 84 acofaster: 89 dfsfaster: 11 
+ants: 10 iters: 12 
+ acobestworse: 19 aconthworse: 83 acofaster: 83 dfsfaster: 17 
+ants: 10 iters: 13 
+ acobestworse: 12 aconthworse: 86 acofaster: 82 dfsfaster: 18 
+ants: 10 iters: 14 
+ acobestworse: 15 aconthworse: 82 acofaster: 81 dfsfaster: 19 
+ants: 10 iters: 15 
+ acobestworse: 10 aconthworse: 81 acofaster: 80 dfsfaster: 20 
+ants: 10 iters: 16 
+ acobestworse: 15 aconthworse: 75 acofaster: 77 dfsfaster: 23 
+ants: 10 iters: 17 
+ acobestworse: 13 aconthworse: 80 acofaster: 71 dfsfaster: 29 
+ants: 10 iters: 18 
+ acobestworse: 8 aconthworse: 72 acofaster: 74 dfsfaster: 26 
+ants: 10 iters: 19 
+ acobestworse: 13 aconthworse: 77 acofaster: 73 dfsfaster: 27 
+ants: 10 iters: 20 
+ acobestworse: 10 aconthworse: 77 acofaster: 66 dfsfaster: 34 
+ants: 10 iters: 21 
+ acobestworse: 9 aconthworse: 76 acofaster: 68 dfsfaster: 32 
+ants: 10 iters: 22 
+ acobestworse: 9 aconthworse: 81 acofaster: 64 dfsfaster: 36 
+ants: 10 iters: 23 
+ acobestworse: 10 aconthworse: 71 acofaster: 61 dfsfaster: 39 
+ants: 10 iters: 24 
+ acobestworse: 9 aconthworse: 72 acofaster: 60 dfsfaster: 40 
+ants: 10 iters: 25 
+ acobestworse: 10 aconthworse: 73 acofaster: 57 dfsfaster: 43 
+ants: 10 iters: 26 
+ acobestworse: 13 aconthworse: 75 acofaster: 51 dfsfaster: 49 
+ants: 10 iters: 27 
+ acobestworse: 9 aconthworse: 62 acofaster: 53 dfsfaster: 47 
+ants: 10 iters: 28 
+ acobestworse: 6 aconthworse: 75 acofaster: 52 dfsfaster: 48 
+ants: 10 iters: 29 
+ acobestworse: 9 aconthworse: 69 acofaster: 48 dfsfaster: 52 
+ants: 11 iters: 1 
+ acobestworse: 57 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 11 iters: 2 
+ acobestworse: 41 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 11 iters: 3 
+ acobestworse: 35 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 11 iters: 4 
+ acobestworse: 30 aconthworse: 94 acofaster: 100 dfsfaster: 0 
+ants: 11 iters: 5 
+ acobestworse: 26 aconthworse: 94 acofaster: 100 dfsfaster: 0 
+ants: 11 iters: 6 
+ acobestworse: 28 aconthworse: 95 acofaster: 98 dfsfaster: 2 
+ants: 11 iters: 7 
+ acobestworse: 21 aconthworse: 90 acofaster: 96 dfsfaster: 4 
+ants: 11 iters: 8 
+ acobestworse: 21 aconthworse: 83 acofaster: 94 dfsfaster: 6 
+ants: 11 iters: 9 
+ acobestworse: 19 aconthworse: 83 acofaster: 92 dfsfaster: 8 
+ants: 11 iters: 10 
+ acobestworse: 20 aconthworse: 84 acofaster: 89 dfsfaster: 11 
+ants: 11 iters: 11 
+ acobestworse: 15 aconthworse: 79 acofaster: 85 dfsfaster: 15 
+ants: 11 iters: 12 
+ acobestworse: 17 aconthworse: 83 acofaster: 84 dfsfaster: 16 
+ants: 11 iters: 13 
+ acobestworse: 16 aconthworse: 81 acofaster: 82 dfsfaster: 18 
+ants: 11 iters: 14 
+ acobestworse: 9 aconthworse: 78 acofaster: 80 dfsfaster: 20 
+ants: 11 iters: 15 
+ acobestworse: 11 aconthworse: 77 acofaster: 74 dfsfaster: 26 
+ants: 11 iters: 16 
+ acobestworse: 12 aconthworse: 79 acofaster: 72 dfsfaster: 28 
+ants: 11 iters: 17 
+ acobestworse: 13 aconthworse: 72 acofaster: 73 dfsfaster: 27 
+ants: 11 iters: 18 
+ acobestworse: 12 aconthworse: 73 acofaster: 71 dfsfaster: 29 
+ants: 11 iters: 19 
+ acobestworse: 10 aconthworse: 73 acofaster: 70 dfsfaster: 30 
+ants: 11 iters: 20 
+ acobestworse: 11 aconthworse: 78 acofaster: 66 dfsfaster: 34 
+ants: 11 iters: 21 
+ acobestworse: 13 aconthworse: 76 acofaster: 63 dfsfaster: 37 
+ants: 11 iters: 22 
+ acobestworse: 13 aconthworse: 77 acofaster: 58 dfsfaster: 42 
+ants: 11 iters: 23 
+ acobestworse: 9 aconthworse: 72 acofaster: 54 dfsfaster: 46 
+ants: 11 iters: 24 
+ acobestworse: 6 aconthworse: 76 acofaster: 53 dfsfaster: 47 
+ants: 11 iters: 25 
+ acobestworse: 6 aconthworse: 68 acofaster: 53 dfsfaster: 47 
+ants: 11 iters: 26 
+ acobestworse: 9 aconthworse: 69 acofaster: 47 dfsfaster: 53 
+ants: 11 iters: 27 
+ acobestworse: 9 aconthworse: 66 acofaster: 50 dfsfaster: 50 
+ants: 11 iters: 28 
+ acobestworse: 7 aconthworse: 74 acofaster: 44 dfsfaster: 56 
+ants: 11 iters: 29 
+ acobestworse: 8 aconthworse: 66 acofaster: 43 dfsfaster: 57 
+ants: 12 iters: 1 
+ acobestworse: 58 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 12 iters: 2 
+ acobestworse: 46 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 12 iters: 3 
+ acobestworse: 31 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 12 iters: 4 
+ acobestworse: 30 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 12 iters: 5 
+ acobestworse: 25 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 12 iters: 6 
+ acobestworse: 24 aconthworse: 89 acofaster: 97 dfsfaster: 3 
+ants: 12 iters: 7 
+ acobestworse: 22 aconthworse: 85 acofaster: 96 dfsfaster: 4 
+ants: 12 iters: 8 
+ acobestworse: 19 aconthworse: 87 acofaster: 93 dfsfaster: 7 
+ants: 12 iters: 9 
+ acobestworse: 20 aconthworse: 87 acofaster: 90 dfsfaster: 10 
+ants: 12 iters: 10 
+ acobestworse: 16 aconthworse: 83 acofaster: 89 dfsfaster: 11 
+ants: 12 iters: 11 
+ acobestworse: 15 aconthworse: 77 acofaster: 81 dfsfaster: 19 
+ants: 12 iters: 12 
+ acobestworse: 15 aconthworse: 78 acofaster: 79 dfsfaster: 21 
+ants: 12 iters: 13 
+ acobestworse: 18 aconthworse: 76 acofaster: 77 dfsfaster: 23 
+ants: 12 iters: 14 
+ acobestworse: 14 aconthworse: 77 acofaster: 73 dfsfaster: 27 
+ants: 12 iters: 15 
+ acobestworse: 14 aconthworse: 76 acofaster: 73 dfsfaster: 27 
+ants: 12 iters: 16 
+ acobestworse: 10 aconthworse: 80 acofaster: 71 dfsfaster: 29 
+ants: 12 iters: 17 
+ acobestworse: 7 aconthworse: 73 acofaster: 67 dfsfaster: 33 
+ants: 12 iters: 18 
+ acobestworse: 8 aconthworse: 69 acofaster: 66 dfsfaster: 34 
+ants: 12 iters: 19 
+ acobestworse: 6 aconthworse: 67 acofaster: 58 dfsfaster: 42 
+ants: 12 iters: 20 
+ acobestworse: 10 aconthworse: 70 acofaster: 57 dfsfaster: 43 
+ants: 12 iters: 21 
+ acobestworse: 10 aconthworse: 69 acofaster: 53 dfsfaster: 47 
+ants: 12 iters: 22 
+ acobestworse: 9 aconthworse: 68 acofaster: 48 dfsfaster: 52 
+ants: 12 iters: 23 
+ acobestworse: 11 aconthworse: 65 acofaster: 49 dfsfaster: 51 
+ants: 12 iters: 24 
+ acobestworse: 10 aconthworse: 68 acofaster: 47 dfsfaster: 53 
+ants: 12 iters: 25 
+ acobestworse: 8 aconthworse: 74 acofaster: 48 dfsfaster: 52 
+ants: 12 iters: 26 
+ acobestworse: 7 aconthworse: 79 acofaster: 43 dfsfaster: 57 
+ants: 12 iters: 27 
+ acobestworse: 9 aconthworse: 75 acofaster: 44 dfsfaster: 56 
+ants: 12 iters: 28 
+ acobestworse: 5 aconthworse: 73 acofaster: 39 dfsfaster: 61 
+ants: 12 iters: 29 
+ acobestworse: 12 aconthworse: 64 acofaster: 37 dfsfaster: 63 
+ants: 13 iters: 1 
+ acobestworse: 55 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 13 iters: 2 
+ acobestworse: 41 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 13 iters: 3 
+ acobestworse: 32 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 13 iters: 4 
+ acobestworse: 28 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 13 iters: 5 
+ acobestworse: 24 aconthworse: 93 acofaster: 100 dfsfaster: 0 
+ants: 13 iters: 6 
+ acobestworse: 21 aconthworse: 86 acofaster: 97 dfsfaster: 3 
+ants: 13 iters: 7 
+ acobestworse: 17 aconthworse: 89 acofaster: 94 dfsfaster: 6 
+ants: 13 iters: 8 
+ acobestworse: 16 aconthworse: 85 acofaster: 87 dfsfaster: 13 
+ants: 13 iters: 9 
+ acobestworse: 18 aconthworse: 83 acofaster: 87 dfsfaster: 13 
+ants: 13 iters: 10 
+ acobestworse: 16 aconthworse: 77 acofaster: 82 dfsfaster: 18 
+ants: 13 iters: 11 
+ acobestworse: 12 aconthworse: 76 acofaster: 79 dfsfaster: 21 
+ants: 13 iters: 12 
+ acobestworse: 14 aconthworse: 72 acofaster: 77 dfsfaster: 23 
+ants: 13 iters: 13 
+ acobestworse: 15 aconthworse: 79 acofaster: 74 dfsfaster: 26 
+ants: 13 iters: 14 
+ acobestworse: 12 aconthworse: 75 acofaster: 72 dfsfaster: 28 
+ants: 13 iters: 15 
+ acobestworse: 12 aconthworse: 74 acofaster: 68 dfsfaster: 32 
+ants: 13 iters: 16 
+ acobestworse: 11 aconthworse: 72 acofaster: 64 dfsfaster: 36 
+ants: 13 iters: 17 
+ acobestworse: 10 aconthworse: 69 acofaster: 57 dfsfaster: 43 
+ants: 13 iters: 18 
+ acobestworse: 7 aconthworse: 67 acofaster: 55 dfsfaster: 45 
+ants: 13 iters: 19 
+ acobestworse: 8 aconthworse: 69 acofaster: 52 dfsfaster: 48 
+ants: 13 iters: 20 
+ acobestworse: 12 aconthworse: 70 acofaster: 48 dfsfaster: 52 
+ants: 13 iters: 21 
+ acobestworse: 9 aconthworse: 70 acofaster: 46 dfsfaster: 54 
+ants: 13 iters: 22 
+ acobestworse: 11 aconthworse: 75 acofaster: 47 dfsfaster: 53 
+ants: 13 iters: 23 
+ acobestworse: 6 aconthworse: 70 acofaster: 44 dfsfaster: 56 
+ants: 13 iters: 24 
+ acobestworse: 11 aconthworse: 69 acofaster: 41 dfsfaster: 59 
+ants: 13 iters: 25 
+ acobestworse: 5 aconthworse: 67 acofaster: 41 dfsfaster: 59 
+ants: 13 iters: 26 
+ acobestworse: 5 aconthworse: 60 acofaster: 38 dfsfaster: 62 
+ants: 13 iters: 27 
+ acobestworse: 10 aconthworse: 66 acofaster: 37 dfsfaster: 63 
+ants: 13 iters: 28 
+ acobestworse: 6 aconthworse: 67 acofaster: 39 dfsfaster: 61 
+ants: 13 iters: 29 
+ acobestworse: 7 aconthworse: 64 acofaster: 33 dfsfaster: 67 
+ants: 14 iters: 1 
+ acobestworse: 58 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 14 iters: 2 
+ acobestworse: 37 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 14 iters: 3 
+ acobestworse: 32 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 14 iters: 4 
+ acobestworse: 31 aconthworse: 94 acofaster: 99 dfsfaster: 1 
+ants: 14 iters: 5 
+ acobestworse: 21 aconthworse: 88 acofaster: 98 dfsfaster: 2 
+ants: 14 iters: 6 
+ acobestworse: 24 aconthworse: 92 acofaster: 96 dfsfaster: 4 
+ants: 14 iters: 7 
+ acobestworse: 20 aconthworse: 83 acofaster: 94 dfsfaster: 6 
+ants: 14 iters: 8 
+ acobestworse: 17 aconthworse: 84 acofaster: 87 dfsfaster: 13 
+ants: 14 iters: 9 
+ acobestworse: 16 aconthworse: 74 acofaster: 80 dfsfaster: 20 
+ants: 14 iters: 10 
+ acobestworse: 13 aconthworse: 73 acofaster: 80 dfsfaster: 20 
+ants: 14 iters: 11 
+ acobestworse: 15 aconthworse: 80 acofaster: 74 dfsfaster: 26 
+ants: 14 iters: 12 
+ acobestworse: 12 aconthworse: 77 acofaster: 72 dfsfaster: 28 
+ants: 14 iters: 13 
+ acobestworse: 16 aconthworse: 73 acofaster: 69 dfsfaster: 31 
+ants: 14 iters: 14 
+ acobestworse: 11 aconthworse: 68 acofaster: 67 dfsfaster: 33 
+ants: 14 iters: 15 
+ acobestworse: 11 aconthworse: 69 acofaster: 63 dfsfaster: 37 
+ants: 14 iters: 16 
+ acobestworse: 10 aconthworse: 72 acofaster: 58 dfsfaster: 42 
+ants: 14 iters: 17 
+ acobestworse: 5 aconthworse: 73 acofaster: 53 dfsfaster: 47 
+ants: 14 iters: 18 
+ acobestworse: 9 aconthworse: 70 acofaster: 51 dfsfaster: 49 
+ants: 14 iters: 19 
+ acobestworse: 6 aconthworse: 72 acofaster: 49 dfsfaster: 51 
+ants: 14 iters: 20 
+ acobestworse: 6 aconthworse: 72 acofaster: 47 dfsfaster: 53 
+ants: 14 iters: 21 
+ acobestworse: 11 aconthworse: 65 acofaster: 43 dfsfaster: 57 
+ants: 14 iters: 22 
+ acobestworse: 10 aconthworse: 64 acofaster: 43 dfsfaster: 57 
+ants: 14 iters: 23 
+ acobestworse: 7 aconthworse: 66 acofaster: 41 dfsfaster: 59 
+ants: 14 iters: 24 
+ acobestworse: 6 aconthworse: 61 acofaster: 39 dfsfaster: 61 
+ants: 14 iters: 25 
+ acobestworse: 4 aconthworse: 61 acofaster: 38 dfsfaster: 62 
+ants: 14 iters: 26 
+ acobestworse: 7 aconthworse: 67 acofaster: 33 dfsfaster: 67 
+ants: 14 iters: 27 
+ acobestworse: 4 aconthworse: 65 acofaster: 30 dfsfaster: 70 
+ants: 14 iters: 28 
+ acobestworse: 6 aconthworse: 63 acofaster: 30 dfsfaster: 70 
+ants: 14 iters: 29 
+ acobestworse: 7 aconthworse: 70 acofaster: 29 dfsfaster: 71 
+ants: 15 iters: 1 
+ acobestworse: 50 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 15 iters: 2 
+ acobestworse: 37 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 15 iters: 3 
+ acobestworse: 31 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 15 iters: 4 
+ acobestworse: 25 aconthworse: 94 acofaster: 100 dfsfaster: 0 
+ants: 15 iters: 5 
+ acobestworse: 21 aconthworse: 86 acofaster: 97 dfsfaster: 3 
+ants: 15 iters: 6 
+ acobestworse: 17 aconthworse: 87 acofaster: 94 dfsfaster: 6 
+ants: 15 iters: 7 
+ acobestworse: 18 aconthworse: 86 acofaster: 89 dfsfaster: 11 
+ants: 15 iters: 8 
+ acobestworse: 17 aconthworse: 83 acofaster: 83 dfsfaster: 17 
+ants: 15 iters: 9 
+ acobestworse: 15 aconthworse: 69 acofaster: 80 dfsfaster: 20 
+ants: 15 iters: 10 
+ acobestworse: 14 aconthworse: 80 acofaster: 73 dfsfaster: 27 
+ants: 15 iters: 11 
+ acobestworse: 14 aconthworse: 73 acofaster: 71 dfsfaster: 29 
+ants: 15 iters: 12 
+ acobestworse: 14 aconthworse: 71 acofaster: 69 dfsfaster: 31 
+ants: 15 iters: 13 
+ acobestworse: 11 aconthworse: 68 acofaster: 67 dfsfaster: 33 
+ants: 15 iters: 14 
+ acobestworse: 14 aconthworse: 70 acofaster: 61 dfsfaster: 39 
+ants: 15 iters: 15 
+ acobestworse: 10 aconthworse: 66 acofaster: 56 dfsfaster: 44 
+ants: 15 iters: 16 
+ acobestworse: 9 aconthworse: 67 acofaster: 48 dfsfaster: 52 
+ants: 15 iters: 17 
+ acobestworse: 12 aconthworse: 68 acofaster: 49 dfsfaster: 51 
+ants: 15 iters: 18 
+ acobestworse: 11 aconthworse: 65 acofaster: 45 dfsfaster: 55 
+ants: 15 iters: 19 
+ acobestworse: 7 aconthworse: 72 acofaster: 42 dfsfaster: 58 
+ants: 15 iters: 20 
+ acobestworse: 4 aconthworse: 63 acofaster: 42 dfsfaster: 58 
+ants: 15 iters: 21 
+ acobestworse: 6 aconthworse: 62 acofaster: 40 dfsfaster: 60 
+ants: 15 iters: 22 
+ acobestworse: 3 aconthworse: 69 acofaster: 41 dfsfaster: 59 
+ants: 15 iters: 23 
+ acobestworse: 6 aconthworse: 63 acofaster: 38 dfsfaster: 62 
+ants: 15 iters: 24 
+ acobestworse: 6 aconthworse: 59 acofaster: 32 dfsfaster: 68 
+ants: 15 iters: 25 
+ acobestworse: 7 aconthworse: 64 acofaster: 32 dfsfaster: 68 
+ants: 15 iters: 26 
+ acobestworse: 6 aconthworse: 64 acofaster: 30 dfsfaster: 70 
+ants: 15 iters: 27 
+ acobestworse: 4 aconthworse: 64 acofaster: 29 dfsfaster: 71 
+ants: 15 iters: 28 
+ acobestworse: 5 aconthworse: 60 acofaster: 27 dfsfaster: 73 
+ants: 15 iters: 29 
+ acobestworse: 4 aconthworse: 62 acofaster: 26 dfsfaster: 74 
+ants: 16 iters: 1 
+ acobestworse: 52 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 16 iters: 2 
+ acobestworse: 35 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 16 iters: 3 
+ acobestworse: 26 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 16 iters: 4 
+ acobestworse: 22 aconthworse: 93 acofaster: 99 dfsfaster: 1 
+ants: 16 iters: 5 
+ acobestworse: 19 aconthworse: 88 acofaster: 96 dfsfaster: 4 
+ants: 16 iters: 6 
+ acobestworse: 15 aconthworse: 83 acofaster: 93 dfsfaster: 7 
+ants: 16 iters: 7 
+ acobestworse: 19 aconthworse: 80 acofaster: 86 dfsfaster: 14 
+ants: 16 iters: 8 
+ acobestworse: 19 aconthworse: 78 acofaster: 78 dfsfaster: 22 
+ants: 16 iters: 9 
+ acobestworse: 14 aconthworse: 76 acofaster: 76 dfsfaster: 24 
+ants: 16 iters: 10 
+ acobestworse: 17 aconthworse: 69 acofaster: 71 dfsfaster: 29 
+ants: 16 iters: 11 
+ acobestworse: 11 aconthworse: 70 acofaster: 69 dfsfaster: 31 
+ants: 16 iters: 12 
+ acobestworse: 8 aconthworse: 69 acofaster: 68 dfsfaster: 32 
+ants: 16 iters: 13 
+ acobestworse: 5 aconthworse: 66 acofaster: 61 dfsfaster: 39 
+ants: 16 iters: 14 
+ acobestworse: 10 aconthworse: 68 acofaster: 54 dfsfaster: 46 
+ants: 16 iters: 15 
+ acobestworse: 11 aconthworse: 68 acofaster: 49 dfsfaster: 51 
+ants: 16 iters: 16 
+ acobestworse: 6 aconthworse: 69 acofaster: 49 dfsfaster: 51 
+ants: 16 iters: 17 
+ acobestworse: 11 aconthworse: 60 acofaster: 43 dfsfaster: 57 
+ants: 16 iters: 18 
+ acobestworse: 7 aconthworse: 63 acofaster: 42 dfsfaster: 58 
+ants: 16 iters: 19 
+ acobestworse: 7 aconthworse: 58 acofaster: 38 dfsfaster: 62 
+ants: 16 iters: 20 
+ acobestworse: 7 aconthworse: 66 acofaster: 41 dfsfaster: 59 
+ants: 16 iters: 21 
+ acobestworse: 7 aconthworse: 70 acofaster: 36 dfsfaster: 64 
+ants: 16 iters: 22 
+ acobestworse: 5 aconthworse: 59 acofaster: 34 dfsfaster: 66 
+ants: 16 iters: 23 
+ acobestworse: 2 aconthworse: 56 acofaster: 30 dfsfaster: 70 
+ants: 16 iters: 24 
+ acobestworse: 7 aconthworse: 64 acofaster: 25 dfsfaster: 75 
+ants: 16 iters: 25 
+ acobestworse: 3 aconthworse: 60 acofaster: 26 dfsfaster: 74 
+ants: 16 iters: 26 
+ acobestworse: 7 aconthworse: 61 acofaster: 27 dfsfaster: 73 
+ants: 16 iters: 27 
+ acobestworse: 6 aconthworse: 63 acofaster: 22 dfsfaster: 78 
+ants: 16 iters: 28 
+ acobestworse: 8 aconthworse: 62 acofaster: 23 dfsfaster: 77 
+ants: 16 iters: 29 
+ acobestworse: 5 aconthworse: 63 acofaster: 19 dfsfaster: 81 
+ants: 17 iters: 1 
+ acobestworse: 46 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 17 iters: 2 
+ acobestworse: 33 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 17 iters: 3 
+ acobestworse: 30 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 17 iters: 4 
+ acobestworse: 25 aconthworse: 91 acofaster: 99 dfsfaster: 1 
+ants: 17 iters: 5 
+ acobestworse: 17 aconthworse: 87 acofaster: 95 dfsfaster: 5 
+ants: 17 iters: 6 
+ acobestworse: 20 aconthworse: 88 acofaster: 87 dfsfaster: 13 
+ants: 17 iters: 7 
+ acobestworse: 14 aconthworse: 74 acofaster: 82 dfsfaster: 18 
+ants: 17 iters: 8 
+ acobestworse: 21 aconthworse: 79 acofaster: 78 dfsfaster: 22 
+ants: 17 iters: 9 
+ acobestworse: 16 aconthworse: 75 acofaster: 75 dfsfaster: 25 
+ants: 17 iters: 10 
+ acobestworse: 14 aconthworse: 74 acofaster: 67 dfsfaster: 33 
+ants: 17 iters: 11 
+ acobestworse: 10 aconthworse: 67 acofaster: 63 dfsfaster: 37 
+ants: 17 iters: 12 
+ acobestworse: 14 aconthworse: 71 acofaster: 60 dfsfaster: 40 
+ants: 17 iters: 13 
+ acobestworse: 12 aconthworse: 71 acofaster: 47 dfsfaster: 53 
+ants: 17 iters: 14 
+ acobestworse: 10 aconthworse: 69 acofaster: 50 dfsfaster: 50 
+ants: 17 iters: 15 
+ acobestworse: 8 aconthworse: 64 acofaster: 46 dfsfaster: 54 
+ants: 17 iters: 16 
+ acobestworse: 7 aconthworse: 68 acofaster: 41 dfsfaster: 59 
+ants: 17 iters: 17 
+ acobestworse: 9 aconthworse: 62 acofaster: 42 dfsfaster: 58 
+ants: 17 iters: 18 
+ acobestworse: 9 aconthworse: 63 acofaster: 38 dfsfaster: 62 
+ants: 17 iters: 19 
+ acobestworse: 7 aconthworse: 62 acofaster: 36 dfsfaster: 64 
+ants: 17 iters: 20 
+ acobestworse: 8 aconthworse: 63 acofaster: 33 dfsfaster: 67 
+ants: 17 iters: 21 
+ acobestworse: 5 aconthworse: 55 acofaster: 30 dfsfaster: 70 
+ants: 17 iters: 22 
+ acobestworse: 8 aconthworse: 61 acofaster: 27 dfsfaster: 73 
+ants: 17 iters: 23 
+ acobestworse: 2 aconthworse: 51 acofaster: 23 dfsfaster: 77 
+ants: 17 iters: 24 
+ acobestworse: 3 aconthworse: 59 acofaster: 23 dfsfaster: 77 
+ants: 17 iters: 25 
+ acobestworse: 8 aconthworse: 58 acofaster: 21 dfsfaster: 79 
+ants: 17 iters: 26 
+ acobestworse: 9 aconthworse: 58 acofaster: 21 dfsfaster: 79 
+ants: 17 iters: 27 
+ acobestworse: 4 aconthworse: 64 acofaster: 20 dfsfaster: 80 
+ants: 17 iters: 28 
+ acobestworse: 3 aconthworse: 57 acofaster: 17 dfsfaster: 83 
+ants: 17 iters: 29 
+ acobestworse: 3 aconthworse: 55 acofaster: 17 dfsfaster: 83 
+ants: 18 iters: 1 
+ acobestworse: 50 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 18 iters: 2 
+ acobestworse: 32 aconthworse: 97 acofaster: 100 dfsfaster: 0 
+ants: 18 iters: 3 
+ acobestworse: 30 aconthworse: 90 acofaster: 100 dfsfaster: 0 
+ants: 18 iters: 4 
+ acobestworse: 26 aconthworse: 91 acofaster: 95 dfsfaster: 5 
+ants: 18 iters: 5 
+ acobestworse: 23 aconthworse: 89 acofaster: 92 dfsfaster: 8 
+ants: 18 iters: 6 
+ acobestworse: 25 aconthworse: 81 acofaster: 83 dfsfaster: 17 
+ants: 18 iters: 7 
+ acobestworse: 13 aconthworse: 80 acofaster: 77 dfsfaster: 23 
+ants: 18 iters: 8 
+ acobestworse: 19 aconthworse: 73 acofaster: 76 dfsfaster: 24 
+ants: 18 iters: 9 
+ acobestworse: 13 aconthworse: 68 acofaster: 70 dfsfaster: 30 
+ants: 18 iters: 10 
+ acobestworse: 10 aconthworse: 68 acofaster: 64 dfsfaster: 36 
+ants: 18 iters: 11 
+ acobestworse: 11 aconthworse: 69 acofaster: 60 dfsfaster: 40 
+ants: 18 iters: 12 
+ acobestworse: 12 aconthworse: 70 acofaster: 54 dfsfaster: 46 
+ants: 18 iters: 13 
+ acobestworse: 11 aconthworse: 68 acofaster: 47 dfsfaster: 53 
+ants: 18 iters: 14 
+ acobestworse: 11 aconthworse: 65 acofaster: 43 dfsfaster: 57 
+ants: 18 iters: 15 
+ acobestworse: 9 aconthworse: 62 acofaster: 43 dfsfaster: 57 
+ants: 18 iters: 16 
+ acobestworse: 6 aconthworse: 60 acofaster: 40 dfsfaster: 60 
+ants: 18 iters: 17 
+ acobestworse: 8 aconthworse: 61 acofaster: 37 dfsfaster: 63 
+ants: 18 iters: 18 
+ acobestworse: 6 aconthworse: 68 acofaster: 38 dfsfaster: 62 
+ants: 18 iters: 19 
+ acobestworse: 5 aconthworse: 59 acofaster: 33 dfsfaster: 67 
+ants: 18 iters: 20 
+ acobestworse: 6 aconthworse: 64 acofaster: 30 dfsfaster: 70 
+ants: 18 iters: 21 
+ acobestworse: 7 aconthworse: 60 acofaster: 26 dfsfaster: 74 
+ants: 18 iters: 22 
+ acobestworse: 5 aconthworse: 60 acofaster: 26 dfsfaster: 74 
+ants: 18 iters: 23 
+ acobestworse: 5 aconthworse: 56 acofaster: 25 dfsfaster: 75 
+ants: 18 iters: 24 
+ acobestworse: 10 aconthworse: 60 acofaster: 20 dfsfaster: 80 
+ants: 18 iters: 25 
+ acobestworse: 4 aconthworse: 55 acofaster: 18 dfsfaster: 82 
+ants: 18 iters: 26 
+ acobestworse: 4 aconthworse: 53 acofaster: 17 dfsfaster: 83 
+ants: 18 iters: 27 
+ acobestworse: 3 aconthworse: 51 acofaster: 16 dfsfaster: 84 
+ants: 18 iters: 28 
+ acobestworse: 4 aconthworse: 52 acofaster: 16 dfsfaster: 84 
+ants: 18 iters: 29 
+ acobestworse: 4 aconthworse: 54 acofaster: 14 dfsfaster: 86 
+ants: 19 iters: 1 
+ acobestworse: 45 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 19 iters: 2 
+ acobestworse: 34 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 19 iters: 3 
+ acobestworse: 31 aconthworse: 88 acofaster: 99 dfsfaster: 1 
+ants: 19 iters: 4 
+ acobestworse: 23 aconthworse: 90 acofaster: 96 dfsfaster: 4 
+ants: 19 iters: 5 
+ acobestworse: 16 aconthworse: 82 acofaster: 92 dfsfaster: 8 
+ants: 19 iters: 6 
+ acobestworse: 19 aconthworse: 80 acofaster: 82 dfsfaster: 18 
+ants: 19 iters: 7 
+ acobestworse: 17 aconthworse: 77 acofaster: 75 dfsfaster: 25 
+ants: 19 iters: 8 
+ acobestworse: 13 aconthworse: 74 acofaster: 73 dfsfaster: 27 
+ants: 19 iters: 9 
+ acobestworse: 8 aconthworse: 70 acofaster: 65 dfsfaster: 35 
+ants: 19 iters: 10 
+ acobestworse: 11 aconthworse: 69 acofaster: 60 dfsfaster: 40 
+ants: 19 iters: 11 
+ acobestworse: 12 aconthworse: 66 acofaster: 51 dfsfaster: 49 
+ants: 19 iters: 12 
+ acobestworse: 11 aconthworse: 64 acofaster: 48 dfsfaster: 52 
+ants: 19 iters: 13 
+ acobestworse: 12 aconthworse: 63 acofaster: 44 dfsfaster: 56 
+ants: 19 iters: 14 
+ acobestworse: 6 aconthworse: 61 acofaster: 41 dfsfaster: 59 
+ants: 19 iters: 15 
+ acobestworse: 12 aconthworse: 54 acofaster: 41 dfsfaster: 59 
+ants: 19 iters: 16 
+ acobestworse: 7 aconthworse: 59 acofaster: 38 dfsfaster: 62 
+ants: 19 iters: 17 
+ acobestworse: 6 aconthworse: 60 acofaster: 35 dfsfaster: 65 
+ants: 19 iters: 18 
+ acobestworse: 7 aconthworse: 62 acofaster: 29 dfsfaster: 71 
+ants: 19 iters: 19 
+ acobestworse: 7 aconthworse: 59 acofaster: 26 dfsfaster: 74 
+ants: 19 iters: 20 
+ acobestworse: 4 aconthworse: 57 acofaster: 27 dfsfaster: 73 
+ants: 19 iters: 21 
+ acobestworse: 3 aconthworse: 56 acofaster: 23 dfsfaster: 77 
+ants: 19 iters: 22 
+ acobestworse: 8 aconthworse: 56 acofaster: 22 dfsfaster: 78 
+ants: 19 iters: 23 
+ acobestworse: 6 aconthworse: 56 acofaster: 19 dfsfaster: 81 
+ants: 19 iters: 24 
+ acobestworse: 5 aconthworse: 65 acofaster: 18 dfsfaster: 82 
+ants: 19 iters: 25 
+ acobestworse: 6 aconthworse: 54 acofaster: 17 dfsfaster: 83 
+ants: 19 iters: 26 
+ acobestworse: 6 aconthworse: 53 acofaster: 16 dfsfaster: 84 
+ants: 19 iters: 27 
+ acobestworse: 6 aconthworse: 59 acofaster: 14 dfsfaster: 86 
+ants: 19 iters: 28 
+ acobestworse: 5 aconthworse: 55 acofaster: 16 dfsfaster: 84 
+ants: 19 iters: 29 
+ acobestworse: 4 aconthworse: 60 acofaster: 14 dfsfaster: 86 
+ants: 20 iters: 1 
+ acobestworse: 43 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 20 iters: 2 
+ acobestworse: 29 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 20 iters: 3 
+ acobestworse: 27 aconthworse: 93 acofaster: 100 dfsfaster: 0 
+ants: 20 iters: 4 
+ acobestworse: 22 aconthworse: 84 acofaster: 94 dfsfaster: 6 
+ants: 20 iters: 5 
+ acobestworse: 21 aconthworse: 85 acofaster: 89 dfsfaster: 11 
+ants: 20 iters: 6 
+ acobestworse: 22 aconthworse: 76 acofaster: 80 dfsfaster: 20 
+ants: 20 iters: 7 
+ acobestworse: 18 aconthworse: 70 acofaster: 75 dfsfaster: 25 
+ants: 20 iters: 8 
+ acobestworse: 14 aconthworse: 70 acofaster: 70 dfsfaster: 30 
+ants: 20 iters: 9 
+ acobestworse: 11 aconthworse: 66 acofaster: 65 dfsfaster: 35 
+ants: 20 iters: 10 
+ acobestworse: 11 aconthworse: 67 acofaster: 58 dfsfaster: 42 
+ants: 20 iters: 11 
+ acobestworse: 9 aconthworse: 62 acofaster: 51 dfsfaster: 49 
+ants: 20 iters: 12 
+ acobestworse: 10 aconthworse: 61 acofaster: 50 dfsfaster: 50 
+ants: 20 iters: 13 
+ acobestworse: 9 aconthworse: 65 acofaster: 42 dfsfaster: 58 
+ants: 20 iters: 14 
+ acobestworse: 8 aconthworse: 58 acofaster: 40 dfsfaster: 60 
+ants: 20 iters: 15 
+ acobestworse: 9 aconthworse: 58 acofaster: 35 dfsfaster: 65 
+ants: 20 iters: 16 
+ acobestworse: 7 aconthworse: 63 acofaster: 35 dfsfaster: 65 
+ants: 20 iters: 17 
+ acobestworse: 7 aconthworse: 56 acofaster: 32 dfsfaster: 68 
+ants: 20 iters: 18 
+ acobestworse: 9 aconthworse: 61 acofaster: 28 dfsfaster: 72 
+ants: 20 iters: 19 
+ acobestworse: 7 aconthworse: 57 acofaster: 20 dfsfaster: 80 
+ants: 20 iters: 20 
+ acobestworse: 12 aconthworse: 66 acofaster: 22 dfsfaster: 78 
+ants: 20 iters: 21 
+ acobestworse: 6 aconthworse: 59 acofaster: 19 dfsfaster: 81 
+ants: 20 iters: 22 
+ acobestworse: 7 aconthworse: 63 acofaster: 18 dfsfaster: 82 
+ants: 20 iters: 23 
+ acobestworse: 3 aconthworse: 63 acofaster: 17 dfsfaster: 83 
+ants: 20 iters: 24 
+ acobestworse: 5 aconthworse: 58 acofaster: 17 dfsfaster: 83 
+ants: 20 iters: 25 
+ acobestworse: 5 aconthworse: 52 acofaster: 15 dfsfaster: 85 
+ants: 20 iters: 26 
+ acobestworse: 3 aconthworse: 51 acofaster: 13 dfsfaster: 87 
+ants: 20 iters: 27 
+ acobestworse: 5 aconthworse: 57 acofaster: 12 dfsfaster: 88 
+ants: 20 iters: 28 
+ acobestworse: 4 aconthworse: 54 acofaster: 11 dfsfaster: 89 
+ants: 20 iters: 29 
+ acobestworse: 6 aconthworse: 57 acofaster: 12 dfsfaster: 88 
+ants: 21 iters: 1 
+ acobestworse: 46 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 21 iters: 2 
+ acobestworse: 36 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 21 iters: 3 
+ acobestworse: 29 aconthworse: 92 acofaster: 99 dfsfaster: 1 
+ants: 21 iters: 4 
+ acobestworse: 20 aconthworse: 79 acofaster: 93 dfsfaster: 7 
+ants: 21 iters: 5 
+ acobestworse: 19 aconthworse: 81 acofaster: 83 dfsfaster: 17 
+ants: 21 iters: 6 
+ acobestworse: 17 aconthworse: 76 acofaster: 79 dfsfaster: 21 
+ants: 21 iters: 7 
+ acobestworse: 15 aconthworse: 76 acofaster: 68 dfsfaster: 32 
+ants: 21 iters: 8 
+ acobestworse: 15 aconthworse: 70 acofaster: 66 dfsfaster: 34 
+ants: 21 iters: 9 
+ acobestworse: 9 aconthworse: 61 acofaster: 57 dfsfaster: 43 
+ants: 21 iters: 10 
+ acobestworse: 10 aconthworse: 67 acofaster: 49 dfsfaster: 51 
+ants: 21 iters: 11 
+ acobestworse: 11 aconthworse: 67 acofaster: 44 dfsfaster: 56 
+ants: 21 iters: 12 
+ acobestworse: 10 aconthworse: 68 acofaster: 39 dfsfaster: 61 
+ants: 21 iters: 13 
+ acobestworse: 10 aconthworse: 60 acofaster: 36 dfsfaster: 64 
+ants: 21 iters: 14 
+ acobestworse: 8 aconthworse: 64 acofaster: 35 dfsfaster: 65 
+ants: 21 iters: 15 
+ acobestworse: 11 aconthworse: 54 acofaster: 34 dfsfaster: 66 
+ants: 21 iters: 16 
+ acobestworse: 6 aconthworse: 63 acofaster: 29 dfsfaster: 71 
+ants: 21 iters: 17 
+ acobestworse: 5 aconthworse: 58 acofaster: 24 dfsfaster: 76 
+ants: 21 iters: 18 
+ acobestworse: 7 aconthworse: 62 acofaster: 22 dfsfaster: 78 
+ants: 21 iters: 19 
+ acobestworse: 8 aconthworse: 55 acofaster: 20 dfsfaster: 80 
+ants: 21 iters: 20 
+ acobestworse: 6 aconthworse: 58 acofaster: 17 dfsfaster: 83 
+ants: 21 iters: 21 
+ acobestworse: 6 aconthworse: 55 acofaster: 16 dfsfaster: 84 
+ants: 21 iters: 22 
+ acobestworse: 8 aconthworse: 52 acofaster: 14 dfsfaster: 86 
+ants: 21 iters: 23 
+ acobestworse: 5 aconthworse: 56 acofaster: 15 dfsfaster: 85 
+ants: 21 iters: 24 
+ acobestworse: 9 aconthworse: 54 acofaster: 12 dfsfaster: 88 
+ants: 21 iters: 25 
+ acobestworse: 3 aconthworse: 51 acofaster: 13 dfsfaster: 87 
+ants: 21 iters: 26 
+ acobestworse: 3 aconthworse: 57 acofaster: 11 dfsfaster: 89 
+ants: 21 iters: 27 
+ acobestworse: 5 aconthworse: 54 acofaster: 10 dfsfaster: 90 
+ants: 21 iters: 28 
+ acobestworse: 1 aconthworse: 45 acofaster: 9 dfsfaster: 91 
+ants: 21 iters: 29 
+ acobestworse: 5 aconthworse: 55 acofaster: 10 dfsfaster: 90 
+ants: 22 iters: 1 
+ acobestworse: 49 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 22 iters: 2 
+ acobestworse: 30 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 22 iters: 3 
+ acobestworse: 24 aconthworse: 90 acofaster: 96 dfsfaster: 4 
+ants: 22 iters: 4 
+ acobestworse: 19 aconthworse: 85 acofaster: 92 dfsfaster: 8 
+ants: 22 iters: 5 
+ acobestworse: 19 aconthworse: 86 acofaster: 84 dfsfaster: 16 
+ants: 22 iters: 6 
+ acobestworse: 17 aconthworse: 76 acofaster: 76 dfsfaster: 24 
+ants: 22 iters: 7 
+ acobestworse: 14 aconthworse: 71 acofaster: 69 dfsfaster: 31 
+ants: 22 iters: 8 
+ acobestworse: 12 aconthworse: 75 acofaster: 64 dfsfaster: 36 
+ants: 22 iters: 9 
+ acobestworse: 10 aconthworse: 72 acofaster: 58 dfsfaster: 42 
+ants: 22 iters: 10 
+ acobestworse: 9 aconthworse: 64 acofaster: 48 dfsfaster: 52 
+ants: 22 iters: 11 
+ acobestworse: 13 aconthworse: 60 acofaster: 43 dfsfaster: 57 
+ants: 22 iters: 12 
+ acobestworse: 7 aconthworse: 60 acofaster: 41 dfsfaster: 59 
+ants: 22 iters: 13 
+ acobestworse: 7 aconthworse: 60 acofaster: 41 dfsfaster: 59 
+ants: 22 iters: 14 
+ acobestworse: 5 aconthworse: 63 acofaster: 32 dfsfaster: 68 
+ants: 22 iters: 15 
+ acobestworse: 6 aconthworse: 51 acofaster: 32 dfsfaster: 68 
+ants: 22 iters: 16 
+ acobestworse: 8 aconthworse: 53 acofaster: 26 dfsfaster: 74 
+ants: 22 iters: 17 
+ acobestworse: 4 aconthworse: 62 acofaster: 24 dfsfaster: 76 
+ants: 22 iters: 18 
+ acobestworse: 9 aconthworse: 54 acofaster: 22 dfsfaster: 78 
+ants: 22 iters: 19 
+ acobestworse: 6 aconthworse: 51 acofaster: 17 dfsfaster: 83 
+ants: 22 iters: 20 
+ acobestworse: 6 aconthworse: 53 acofaster: 17 dfsfaster: 83 
+ants: 22 iters: 21 
+ acobestworse: 6 aconthworse: 59 acofaster: 17 dfsfaster: 83 
+ants: 22 iters: 22 
+ acobestworse: 6 aconthworse: 51 acofaster: 15 dfsfaster: 85 
+ants: 22 iters: 23 
+ acobestworse: 6 aconthworse: 56 acofaster: 16 dfsfaster: 84 
+ants: 22 iters: 24 
+ acobestworse: 5 aconthworse: 54 acofaster: 13 dfsfaster: 87 
+ants: 22 iters: 25 
+ acobestworse: 1 aconthworse: 58 acofaster: 11 dfsfaster: 89 
+ants: 22 iters: 26 
+ acobestworse: 5 aconthworse: 58 acofaster: 11 dfsfaster: 89 
+ants: 22 iters: 27 
+ acobestworse: 4 aconthworse: 45 acofaster: 9 dfsfaster: 91 
+ants: 22 iters: 28 
+ acobestworse: 4 aconthworse: 53 acofaster: 10 dfsfaster: 90 
+ants: 22 iters: 29 
+ acobestworse: 4 aconthworse: 49 acofaster: 9 dfsfaster: 91 
+ants: 23 iters: 1 
+ acobestworse: 44 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 23 iters: 2 
+ acobestworse: 31 aconthworse: 94 acofaster: 100 dfsfaster: 0 
+ants: 23 iters: 3 
+ acobestworse: 21 aconthworse: 86 acofaster: 98 dfsfaster: 2 
+ants: 23 iters: 4 
+ acobestworse: 17 aconthworse: 84 acofaster: 88 dfsfaster: 12 
+ants: 23 iters: 5 
+ acobestworse: 16 aconthworse: 74 acofaster: 79 dfsfaster: 21 
+ants: 23 iters: 6 
+ acobestworse: 18 aconthworse: 77 acofaster: 77 dfsfaster: 23 
+ants: 23 iters: 7 
+ acobestworse: 15 aconthworse: 73 acofaster: 67 dfsfaster: 33 
+ants: 23 iters: 8 
+ acobestworse: 13 aconthworse: 65 acofaster: 58 dfsfaster: 42 
+ants: 23 iters: 9 
+ acobestworse: 14 aconthworse: 72 acofaster: 53 dfsfaster: 47 
+ants: 23 iters: 10 
+ acobestworse: 10 aconthworse: 61 acofaster: 50 dfsfaster: 50 
+ants: 23 iters: 11 
+ acobestworse: 11 aconthworse: 65 acofaster: 41 dfsfaster: 59 
+ants: 23 iters: 12 
+ acobestworse: 8 aconthworse: 63 acofaster: 38 dfsfaster: 62 
+ants: 23 iters: 13 
+ acobestworse: 6 aconthworse: 69 acofaster: 35 dfsfaster: 65 
+ants: 23 iters: 14 
+ acobestworse: 9 aconthworse: 60 acofaster: 30 dfsfaster: 70 
+ants: 23 iters: 15 
+ acobestworse: 8 aconthworse: 58 acofaster: 25 dfsfaster: 75 
+ants: 23 iters: 16 
+ acobestworse: 6 aconthworse: 57 acofaster: 22 dfsfaster: 78 
+ants: 23 iters: 17 
+ acobestworse: 10 aconthworse: 62 acofaster: 23 dfsfaster: 77 
+ants: 23 iters: 18 
+ acobestworse: 6 aconthworse: 54 acofaster: 17 dfsfaster: 83 
+ants: 23 iters: 19 
+ acobestworse: 4 aconthworse: 50 acofaster: 19 dfsfaster: 81 
+ants: 23 iters: 20 
+ acobestworse: 5 aconthworse: 56 acofaster: 16 dfsfaster: 84 
+ants: 23 iters: 21 
+ acobestworse: 3 aconthworse: 53 acofaster: 13 dfsfaster: 87 
+ants: 23 iters: 22 
+ acobestworse: 5 aconthworse: 54 acofaster: 14 dfsfaster: 86 
+ants: 23 iters: 23 
+ acobestworse: 8 aconthworse: 56 acofaster: 13 dfsfaster: 87 
+ants: 23 iters: 24 
+ acobestworse: 4 aconthworse: 48 acofaster: 10 dfsfaster: 90 
+ants: 23 iters: 25 
+ acobestworse: 4 aconthworse: 51 acofaster: 12 dfsfaster: 88 
+ants: 23 iters: 26 
+ acobestworse: 4 aconthworse: 51 acofaster: 10 dfsfaster: 90 
+ants: 23 iters: 27 
+ acobestworse: 4 aconthworse: 51 acofaster: 8 dfsfaster: 92 
+ants: 23 iters: 28 
+ acobestworse: 2 aconthworse: 46 acofaster: 7 dfsfaster: 93 
+ants: 23 iters: 29 
+ acobestworse: 2 aconthworse: 54 acofaster: 8 dfsfaster: 92 
+ants: 24 iters: 1 
+ acobestworse: 43 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 24 iters: 2 
+ acobestworse: 27 aconthworse: 96 acofaster: 100 dfsfaster: 0 
+ants: 24 iters: 3 
+ acobestworse: 25 aconthworse: 92 acofaster: 95 dfsfaster: 5 
+ants: 24 iters: 4 
+ acobestworse: 20 aconthworse: 79 acofaster: 88 dfsfaster: 12 
+ants: 24 iters: 5 
+ acobestworse: 17 aconthworse: 81 acofaster: 78 dfsfaster: 22 
+ants: 24 iters: 6 
+ acobestworse: 19 aconthworse: 74 acofaster: 72 dfsfaster: 28 
+ants: 24 iters: 7 
+ acobestworse: 14 aconthworse: 71 acofaster: 66 dfsfaster: 34 
+ants: 24 iters: 8 
+ acobestworse: 14 aconthworse: 61 acofaster: 55 dfsfaster: 45 
+ants: 24 iters: 9 
+ acobestworse: 12 aconthworse: 60 acofaster: 48 dfsfaster: 52 
+ants: 24 iters: 10 
+ acobestworse: 9 aconthworse: 67 acofaster: 43 dfsfaster: 57 
+ants: 24 iters: 11 
+ acobestworse: 11 aconthworse: 63 acofaster: 40 dfsfaster: 60 
+ants: 24 iters: 12 
+ acobestworse: 9 aconthworse: 58 acofaster: 32 dfsfaster: 68 
+ants: 24 iters: 13 
+ acobestworse: 6 aconthworse: 56 acofaster: 30 dfsfaster: 70 
+ants: 24 iters: 14 
+ acobestworse: 5 aconthworse: 58 acofaster: 26 dfsfaster: 74 
+ants: 24 iters: 15 
+ acobestworse: 8 aconthworse: 55 acofaster: 24 dfsfaster: 76 
+ants: 24 iters: 16 
+ acobestworse: 5 aconthworse: 55 acofaster: 19 dfsfaster: 81 
+ants: 24 iters: 17 
+ acobestworse: 10 aconthworse: 57 acofaster: 18 dfsfaster: 82 
+ants: 24 iters: 18 
+ acobestworse: 8 aconthworse: 54 acofaster: 16 dfsfaster: 84 
+ants: 24 iters: 19 
+ acobestworse: 4 aconthworse: 56 acofaster: 13 dfsfaster: 87 
+ants: 24 iters: 20 
+ acobestworse: 6 aconthworse: 52 acofaster: 13 dfsfaster: 87 
+ants: 24 iters: 21 
+ acobestworse: 4 aconthworse: 57 acofaster: 13 dfsfaster: 87 
+ants: 24 iters: 22 
+ acobestworse: 2 aconthworse: 52 acofaster: 12 dfsfaster: 88 
+ants: 24 iters: 23 
+ acobestworse: 6 aconthworse: 55 acofaster: 11 dfsfaster: 89 
+ants: 24 iters: 24 
+ acobestworse: 5 aconthworse: 47 acofaster: 10 dfsfaster: 90 
+ants: 24 iters: 25 
+ acobestworse: 4 aconthworse: 51 acofaster: 9 dfsfaster: 91 
+ants: 24 iters: 26 
+ acobestworse: 6 aconthworse: 53 acofaster: 7 dfsfaster: 93 
+ants: 24 iters: 27 
+ acobestworse: 4 aconthworse: 51 acofaster: 7 dfsfaster: 93 
+ants: 24 iters: 28 
+ acobestworse: 3 aconthworse: 52 acofaster: 6 dfsfaster: 94 
+ants: 24 iters: 29 
+ acobestworse: 5 aconthworse: 49 acofaster: 6 dfsfaster: 94 
+ants: 25 iters: 1 
+ acobestworse: 42 aconthworse: 100 acofaster: 100 dfsfaster: 0 
+ants: 25 iters: 2 
+ acobestworse: 31 aconthworse: 93 acofaster: 100 dfsfaster: 0 
+ants: 25 iters: 3 
+ acobestworse: 24 aconthworse: 84 acofaster: 96 dfsfaster: 4 
+ants: 25 iters: 4 
+ acobestworse: 22 aconthworse: 83 acofaster: 86 dfsfaster: 14 
+ants: 25 iters: 5 
+ acobestworse: 15 aconthworse: 77 acofaster: 77 dfsfaster: 23 
+ants: 25 iters: 6 
+ acobestworse: 17 aconthworse: 68 acofaster: 71 dfsfaster: 29 
+ants: 25 iters: 7 
+ acobestworse: 15 aconthworse: 69 acofaster: 62 dfsfaster: 38 
+ants: 25 iters: 8 
+ acobestworse: 11 aconthworse: 64 acofaster: 49 dfsfaster: 51 
+ants: 25 iters: 9 
+ acobestworse: 11 aconthworse: 61 acofaster: 45 dfsfaster: 55 
+ants: 25 iters: 10 
+ acobestworse: 6 aconthworse: 57 acofaster: 39 dfsfaster: 61 
+ants: 25 iters: 11 
+ acobestworse: 7 aconthworse: 56 acofaster: 37 dfsfaster: 63 
+ants: 25 iters: 12 
+ acobestworse: 7 aconthworse: 58 acofaster: 34 dfsfaster: 66 
+ants: 25 iters: 13 
+ acobestworse: 8 aconthworse: 56 acofaster: 30 dfsfaster: 70 
+ants: 25 iters: 14 
+ acobestworse: 9 aconthworse: 59 acofaster: 23 dfsfaster: 77 
+ants: 25 iters: 15 
+ acobestworse: 6 aconthworse: 55 acofaster: 22 dfsfaster: 78 
+ants: 25 iters: 16 
+ acobestworse: 7 aconthworse: 56 acofaster: 19 dfsfaster: 81 
+ants: 25 iters: 17 
+ acobestworse: 7 aconthworse: 55 acofaster: 18 dfsfaster: 82 
+ants: 25 iters: 18 
+ acobestworse: 5 aconthworse: 52 acofaster: 16 dfsfaster: 84 
+ants: 25 iters: 19 
+ acobestworse: 6 aconthworse: 62 acofaster: 15 dfsfaster: 85 
+ants: 25 iters: 20 
+ acobestworse: 4 aconthworse: 48 acofaster: 14 dfsfaster: 86 
+ants: 25 iters: 21 
+ acobestworse: 6 aconthworse: 56 acofaster: 14 dfsfaster: 86 
+ants: 25 iters: 22 
+ acobestworse: 3 aconthworse: 59 acofaster: 10 dfsfaster: 90 
+ants: 25 iters: 23 
+ acobestworse: 7 aconthworse: 50 acofaster: 11 dfsfaster: 89 
+ants: 25 iters: 24 
+ acobestworse: 6 aconthworse: 48 acofaster: 10 dfsfaster: 90 
+ants: 25 iters: 25 
+ acobestworse: 5 aconthworse: 50 acofaster: 7 dfsfaster: 93 
+ants: 25 iters: 26 
+ acobestworse: 5 aconthworse: 51 acofaster: 6 dfsfaster: 94 
+ants: 25 iters: 27 
+ acobestworse: 3 aconthworse: 52 acofaster: 7 dfsfaster: 93 
+ants: 25 iters: 28 
+ acobestworse: 5 aconthworse: 50 acofaster: 6 dfsfaster: 94 
+ants: 25 iters: 29 
+ acobestworse: 3 aconthworse: 45 acofaster: 6 dfsfaster: 94 
+ants: 26 iters: 1 
+ acobestworse: 41 aconthworse: 98 acofaster: 100 dfsfaster: 0 
+ants: 26 iters: 2 
+ acobestworse: 34 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 26 iters: 3 
+ acobestworse: 25 aconthworse: 91 acofaster: 93 dfsfaster: 7 
+ants: 26 iters: 4 
+ acobestworse: 19 aconthworse: 81 acofaster: 83 dfsfaster: 17 
+ants: 26 iters: 5 
+ acobestworse: 20 aconthworse: 74 acofaster: 76 dfsfaster: 24 
+ants: 26 iters: 6 
+ acobestworse: 14 aconthworse: 74 acofaster: 67 dfsfaster: 33 
+ants: 26 iters: 7 
+ acobestworse: 14 aconthworse: 63 acofaster: 58 dfsfaster: 42 
+ants: 26 iters: 8 
+ acobestworse: 11 aconthworse: 60 acofaster: 46 dfsfaster: 54 
+ants: 26 iters: 9 
+ acobestworse: 8 aconthworse: 67 acofaster: 42 dfsfaster: 58 
+ants: 26 iters: 10 
+ acobestworse: 11 aconthworse: 55 acofaster: 36 dfsfaster: 64 
+ants: 26 iters: 11 
+ acobestworse: 8 aconthworse: 63 acofaster: 36 dfsfaster: 64 
+ants: 26 iters: 12 
+ acobestworse: 6 aconthworse: 60 acofaster: 27 dfsfaster: 73 
+ants: 26 iters: 13 
+ acobestworse: 10 aconthworse: 59 acofaster: 25 dfsfaster: 75 
+ants: 26 iters: 14 
+ acobestworse: 6 aconthworse: 55 acofaster: 23 dfsfaster: 77 
+ants: 26 iters: 15 
+ acobestworse: 11 aconthworse: 58 acofaster: 19 dfsfaster: 81 
+ants: 26 iters: 16 
+ acobestworse: 5 aconthworse: 54 acofaster: 19 dfsfaster: 81 
+ants: 26 iters: 17 
+ acobestworse: 4 aconthworse: 53 acofaster: 14 dfsfaster: 86 
+ants: 26 iters: 18 
+ acobestworse: 6 aconthworse: 48 acofaster: 14 dfsfaster: 86 
+ants: 26 iters: 19 
+ acobestworse: 6 aconthworse: 51 acofaster: 13 dfsfaster: 87 
+ants: 26 iters: 20 
+ acobestworse: 6 aconthworse: 50 acofaster: 13 dfsfaster: 87 
+ants: 26 iters: 21 
+ acobestworse: 6 aconthworse: 53 acofaster: 11 dfsfaster: 89 
+ants: 26 iters: 22 
+ acobestworse: 4 aconthworse: 58 acofaster: 10 dfsfaster: 90 
+ants: 26 iters: 23 
+ acobestworse: 5 aconthworse: 56 acofaster: 9 dfsfaster: 91 
+ants: 26 iters: 24 
+ acobestworse: 5 aconthworse: 54 acofaster: 7 dfsfaster: 93 
+ants: 26 iters: 25 
+ acobestworse: 4 aconthworse: 51 acofaster: 7 dfsfaster: 93 
+ants: 26 iters: 26 
+ acobestworse: 4 aconthworse: 53 acofaster: 7 dfsfaster: 93 
+ants: 26 iters: 27 
+ acobestworse: 6 aconthworse: 58 acofaster: 7 dfsfaster: 93 
+ants: 26 iters: 28 
+ acobestworse: 7 aconthworse: 48 acofaster: 6 dfsfaster: 94 
+ants: 26 iters: 29 
+ acobestworse: 5 aconthworse: 54 acofaster: 6 dfsfaster: 94 
+ants: 27 iters: 1 
+ acobestworse: 46 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 27 iters: 2 
+ acobestworse: 35 aconthworse: 93 acofaster: 100 dfsfaster: 0 
+ants: 27 iters: 3 
+ acobestworse: 21 aconthworse: 85 acofaster: 92 dfsfaster: 8 
+ants: 27 iters: 4 
+ acobestworse: 20 aconthworse: 86 acofaster: 79 dfsfaster: 21 
+ants: 27 iters: 5 
+ acobestworse: 15 aconthworse: 77 acofaster: 76 dfsfaster: 24 
+ants: 27 iters: 6 
+ acobestworse: 13 aconthworse: 74 acofaster: 62 dfsfaster: 38 
+ants: 27 iters: 7 
+ acobestworse: 12 aconthworse: 66 acofaster: 57 dfsfaster: 43 
+ants: 27 iters: 8 
+ acobestworse: 15 aconthworse: 67 acofaster: 45 dfsfaster: 55 
+ants: 27 iters: 9 
+ acobestworse: 11 aconthworse: 61 acofaster: 40 dfsfaster: 60 
+ants: 27 iters: 10 
+ acobestworse: 7 aconthworse: 59 acofaster: 36 dfsfaster: 64 
+ants: 27 iters: 11 
+ acobestworse: 12 aconthworse: 57 acofaster: 34 dfsfaster: 66 
+ants: 27 iters: 12 
+ acobestworse: 7 aconthworse: 58 acofaster: 26 dfsfaster: 74 
+ants: 27 iters: 13 
+ acobestworse: 7 aconthworse: 53 acofaster: 23 dfsfaster: 77 
+ants: 27 iters: 14 
+ acobestworse: 7 aconthworse: 56 acofaster: 20 dfsfaster: 80 
+ants: 27 iters: 15 
+ acobestworse: 8 aconthworse: 55 acofaster: 16 dfsfaster: 84 
+ants: 27 iters: 16 
+ acobestworse: 3 aconthworse: 48 acofaster: 17 dfsfaster: 83 
+ants: 27 iters: 17 
+ acobestworse: 4 aconthworse: 59 acofaster: 14 dfsfaster: 86 
+ants: 27 iters: 18 
+ acobestworse: 6 aconthworse: 50 acofaster: 14 dfsfaster: 86 
+ants: 27 iters: 19 
+ acobestworse: 5 aconthworse: 54 acofaster: 10 dfsfaster: 90 
+ants: 27 iters: 20 
+ acobestworse: 6 aconthworse: 51 acofaster: 12 dfsfaster: 88 
+ants: 27 iters: 21 
+ acobestworse: 4 aconthworse: 48 acofaster: 10 dfsfaster: 90 
+ants: 27 iters: 22 
+ acobestworse: 6 aconthworse: 48 acofaster: 9 dfsfaster: 91 
+ants: 27 iters: 23 
+ acobestworse: 3 aconthworse: 52 acofaster: 6 dfsfaster: 94 
+ants: 27 iters: 24 
+ acobestworse: 4 aconthworse: 50 acofaster: 6 dfsfaster: 94 
+ants: 27 iters: 25 
+ acobestworse: 4 aconthworse: 44 acofaster: 7 dfsfaster: 93 
+ants: 27 iters: 26 
+ acobestworse: 6 aconthworse: 51 acofaster: 6 dfsfaster: 94 
+ants: 27 iters: 27 
+ acobestworse: 5 aconthworse: 42 acofaster: 6 dfsfaster: 94 
+ants: 27 iters: 28 
+ acobestworse: 5 aconthworse: 49 acofaster: 6 dfsfaster: 94 
+ants: 27 iters: 29 
+ acobestworse: 1 aconthworse: 49 acofaster: 6 dfsfaster: 94 
+ants: 28 iters: 1 
+ acobestworse: 44 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 28 iters: 2 
+ acobestworse: 26 aconthworse: 92 acofaster: 100 dfsfaster: 0 
+ants: 28 iters: 3 
+ acobestworse: 24 aconthworse: 83 acofaster: 89 dfsfaster: 11 
+ants: 28 iters: 4 
+ acobestworse: 20 aconthworse: 78 acofaster: 79 dfsfaster: 21 
+ants: 28 iters: 5 
+ acobestworse: 18 aconthworse: 76 acofaster: 70 dfsfaster: 30 
+ants: 28 iters: 6 
+ acobestworse: 17 aconthworse: 68 acofaster: 60 dfsfaster: 40 
+ants: 28 iters: 7 
+ acobestworse: 12 aconthworse: 68 acofaster: 50 dfsfaster: 50 
+ants: 28 iters: 8 
+ acobestworse: 10 aconthworse: 64 acofaster: 44 dfsfaster: 56 
+ants: 28 iters: 9 
+ acobestworse: 12 aconthworse: 64 acofaster: 38 dfsfaster: 62 
+ants: 28 iters: 10 
+ acobestworse: 11 aconthworse: 61 acofaster: 30 dfsfaster: 70 
+ants: 28 iters: 11 
+ acobestworse: 8 aconthworse: 59 acofaster: 25 dfsfaster: 75 
+ants: 28 iters: 12 
+ acobestworse: 10 aconthworse: 57 acofaster: 23 dfsfaster: 77 
+ants: 28 iters: 13 
+ acobestworse: 5 aconthworse: 53 acofaster: 24 dfsfaster: 76 
+ants: 28 iters: 14 
+ acobestworse: 4 aconthworse: 50 acofaster: 20 dfsfaster: 80 
+ants: 28 iters: 15 
+ acobestworse: 4 aconthworse: 53 acofaster: 16 dfsfaster: 84 
+ants: 28 iters: 16 
+ acobestworse: 3 aconthworse: 50 acofaster: 14 dfsfaster: 86 
+ants: 28 iters: 17 
+ acobestworse: 5 aconthworse: 51 acofaster: 9 dfsfaster: 91 
+ants: 28 iters: 18 
+ acobestworse: 4 aconthworse: 48 acofaster: 11 dfsfaster: 89 
+ants: 28 iters: 19 
+ acobestworse: 7 aconthworse: 50 acofaster: 10 dfsfaster: 90 
+ants: 28 iters: 20 
+ acobestworse: 6 aconthworse: 46 acofaster: 8 dfsfaster: 92 
+ants: 28 iters: 21 
+ acobestworse: 5 aconthworse: 50 acofaster: 10 dfsfaster: 90 
+ants: 28 iters: 22 
+ acobestworse: 3 aconthworse: 51 acofaster: 8 dfsfaster: 92 
+ants: 28 iters: 23 
+ acobestworse: 3 aconthworse: 45 acofaster: 7 dfsfaster: 93 
+ants: 28 iters: 24 
+ acobestworse: 3 aconthworse: 52 acofaster: 7 dfsfaster: 93 
+ants: 28 iters: 25 
+ acobestworse: 4 aconthworse: 51 acofaster: 6 dfsfaster: 94 
+ants: 28 iters: 26 
+ acobestworse: 3 aconthworse: 40 acofaster: 6 dfsfaster: 94 
+ants: 28 iters: 27 
+ acobestworse: 5 aconthworse: 44 acofaster: 6 dfsfaster: 94 
+ants: 28 iters: 28 
+ acobestworse: 4 aconthworse: 45 acofaster: 6 dfsfaster: 94 
+ants: 28 iters: 29 
+ acobestworse: 3 aconthworse: 43 acofaster: 6 dfsfaster: 94 
+ants: 29 iters: 1 
+ acobestworse: 37 aconthworse: 99 acofaster: 100 dfsfaster: 0 
+ants: 29 iters: 2 
+ acobestworse: 29 aconthworse: 95 acofaster: 100 dfsfaster: 0 
+ants: 29 iters: 3 
+ acobestworse: 21 aconthworse: 90 acofaster: 91 dfsfaster: 9 
+ants: 29 iters: 4 
+ acobestworse: 18 aconthworse: 79 acofaster: 80 dfsfaster: 20 
+ants: 29 iters: 5 
+ acobestworse: 14 aconthworse: 75 acofaster: 69 dfsfaster: 31 
+ants: 29 iters: 6 
+ acobestworse: 16 aconthworse: 73 acofaster: 63 dfsfaster: 37 
+ants: 29 iters: 7 
+ acobestworse: 14 aconthworse: 63 acofaster: 51 dfsfaster: 49 
+ants: 29 iters: 8 
+ acobestworse: 10 aconthworse: 62 acofaster: 40 dfsfaster: 60 
+ants: 29 iters: 9 
+ acobestworse: 12 aconthworse: 54 acofaster: 37 dfsfaster: 63 
+ants: 29 iters: 10 
+ acobestworse: 10 aconthworse: 61 acofaster: 32 dfsfaster: 68 
+ants: 29 iters: 11 
+ acobestworse: 5 aconthworse: 49 acofaster: 28 dfsfaster: 72 
+ants: 29 iters: 12 
+ acobestworse: 6 aconthworse: 52 acofaster: 23 dfsfaster: 77 
+ants: 29 iters: 13 
+ acobestworse: 7 aconthworse: 53 acofaster: 17 dfsfaster: 83 
+ants: 29 iters: 14 
+ acobestworse: 6 aconthworse: 54 acofaster: 17 dfsfaster: 83 
+ants: 29 iters: 15 
+ acobestworse: 5 aconthworse: 51 acofaster: 15 dfsfaster: 85 
+ants: 29 iters: 16 
+ acobestworse: 5 aconthworse: 47 acofaster: 12 dfsfaster: 88 
+ants: 29 iters: 17 
+ acobestworse: 5 aconthworse: 47 acofaster: 11 dfsfaster: 89 
+ants: 29 iters: 18 
+ acobestworse: 3 aconthworse: 50 acofaster: 12 dfsfaster: 88 
+ants: 29 iters: 19 
+ acobestworse: 6 aconthworse: 46 acofaster: 11 dfsfaster: 89 
+ants: 29 iters: 20 
+ acobestworse: 4 aconthworse: 54 acofaster: 7 dfsfaster: 93 
+ants: 29 iters: 21 
+ acobestworse: 7 aconthworse: 44 acofaster: 8 dfsfaster: 92 
+ants: 29 iters: 22 
+ acobestworse: 6 aconthworse: 54 acofaster: 8 dfsfaster: 92 
+ants: 29 iters: 23 
+ acobestworse: 2 aconthworse: 39 acofaster: 7 dfsfaster: 93 
+ants: 29 iters: 24 
+ acobestworse: 8 aconthworse: 47 acofaster: 6 dfsfaster: 94 
+ants: 29 iters: 25 
+ acobestworse: 4 aconthworse: 46 acofaster: 6 dfsfaster: 94 
+ants: 29 iters: 26 
+ acobestworse: 2 aconthworse: 44 acofaster: 6 dfsfaster: 94 
+ants: 29 iters: 27 
+ acobestworse: 5 aconthworse: 50 acofaster: 6 dfsfaster: 94 
+ants: 29 iters: 28 
+ acobestworse: 6 aconthworse: 46 acofaster: 6 dfsfaster: 94 
+ants: 29 iters: 29 
+ acobestworse: 2 aconthworse: 54 acofaster: 6 dfsfaster: 94 

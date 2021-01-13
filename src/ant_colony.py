@@ -1,10 +1,7 @@
 import datetime
-import time
-
 import numpy as np
-from tqdm import tqdm
 
-from src.model.route import Route
+from src.route import Route
 
 
 class AntColonyOptimizer:
@@ -56,7 +53,6 @@ class AntColonyOptimizer:
             if path_length < min_length:
                 min_length = path_length
                 best_path = path
-        # print(f"bestid: {best}  pathsnum: {len(paths)}  bestscore: {scores[best]} best path: {paths[best]}")
         return best_path, min_length
 
     def _update(self, best_path, weight):
@@ -94,8 +90,6 @@ class AntColonyOptimizer:
                 self._unvisited_cities = list(range(len(self._map.graph)))
                 self._paths[route.get_length()] = route
             best_path, min_length = self._evaluate(paths)
-            # self._nth_best = sorted(self._paths.keys())[n_paths - 1]
-            # print(min_length)
 
             if min_length < self._alltime_min:
                 self._alltime_min = min_length
@@ -105,7 +99,6 @@ class AntColonyOptimizer:
 
         b = datetime.datetime.now()
         delta = b - a
-        # print(f" aco: {int(delta.total_seconds() * 1000)} ms")
         best_n_distances = []
         best_n_paths = []
         distances_sorted = sorted(self._paths.keys())
